@@ -1,0 +1,798 @@
+,customer_id,user_name,ratings,review_head,review_body
+0,review-f80c065a-13db-48f0-817a-f0e7b727020e,Nelson Raj,4,Value-for-money,good quality color also awesomeon time delivery
+1,review-374471e4-4bd5-4e1a-97fc-57bbe7608855,Ragul Cr,5,Worth every penny,good product
+2,review-644c9563-2865-44e2-b3e6-11ee2d036f0b,Subham Sarkar,5,Excellent Product.,go
+3,review-05ec43ab-1f81-4e09-b930-9ff05aec7336,Mayank Singh,3,Good,writing speed bit slow nice product worth buying price point
+4,review-3e9d4735-5521-417a-a1ca-8d49a203419c,Sachin Agarwal,4,Nice product,good write speed 10 mbps read speed 8090 mbps4 stars cause heating issue
+5,review-9415308e-2a06-4c9d-85c2-44a8f909fbd4,Ravinder Manchineella,5,Wonderful,excellent pen drive
+6,review-3791898a-1bf1-48ba-bb6c-51bff37ff0a1,A shivakumar,4,Value-for-money,good
+7,review-67e9afb5-25b3-4317-a946-b342914c52bb,Saptam Ghosh,1,Not recommended at all,worst product ever lifenot recognize storage
+8,review-20113ef0-6178-4d70-97a7-d1d342b26653,RAJESH PAI,5,Super!,good 279gb available
+9,review-a8979b50-f80d-4d0d-81e1-cb657f3bc16b,Himanshu Bhaskar,1,Useless product,dont buy speed usb 20 max speed 8mbps
+10,review-3a9f059e-2462-4050-b6d9-4facc8fb7e72,Akhilesh Kumar Sinha,3,Nice,dont know got cheapis defective something elsein windows 10 showing 288gb frre space kali linux showing 309gbsometimes showing windows remove reinsert itit problem transferring files greater 2gb pendrive
+11,review-2b09aaaa-8268-41a3-b67a-465c5f847114,Shankar kumar Subudhi,1,Very poor,hitting problem automatically delete photo data please dont buy pen drive
+12,review-7facacca-60ff-45d0-86f1-5aff39c452ee,Sivaram B,1,Hated it!,pendrive waste date taking scrap pendrive delivery flipkart
+13,review-176ebd24-da85-4f2d-8b19-4fadf2a7c059,Madhusudhan G,5,Just wow!,good product
+14,review-d2c5618c-797f-49ec-a325-1a5548cc727c,vishal b,4,Nice product,good product
+15,review-5a448e9b-8979-403c-9cba-a71cd4cb365e,Hemang Vyas,1,Did not meet expectations,purchase mac format showing 119mb times detected mac
+16,review-a169e8b7-62fb-44c4-8aaa-f8f17daef5a7,Sayan Lohar,2,Expected a better product,bad product
+17,review-3690e762-a001-4556-9e79-39fee8cba620,Flipkart Customer,5,Fabulous!,thank apple tab phone
+18,review-3f3d9457-d201-45e6-aa02-7983476c9ffc,Harsh Nama,4,Very Good,goof
+19,review-87621467-004f-47eb-8f18-9f6aeca5630e,Elangovan,5,Just wow!,good quality made thailand
+20,review-7bce46fe-9d4b-400c-bab8-a2c86fd5edfa,Flipkart Customer,1,Useless product,bad product heats fast
+21,review-a7b589a8-fd81-4af7-b8d8-2480cf7a2ae2,GAURAV JEJURKAR,4,Value-for-money,good heatting fast
+22,review-5cea7ccc-0e74-487c-b7ab-6739680505d2,Flipkart Customer,5,Awesome,lookwise sexy
+23,review-87fc0c95-354b-4ecb-a022-c00b0c57276b,Flipkart Customer,4,Pretty good,nice product support types port like 203031
+24,review-e3465bed-47e8-4086-8d9b-ccc24475f42d,Mathan Babu,3,Good,nice worth amount
+25,review-1104b445-13e0-4183-803a-3ba4a4077b1f,sarbasis das,5,Super!,fast delivery actual capacity shows 289gb bad quite expected nice product far incredible price point
+26,review-5bb72a5f-9ef2-4f9c-bc5e-97f94fd159b5,Flipkart Customer,1,Worthless,bad product
+27,review-3d339bb4-4101-44fa-b411-6c599c759409,Avijit Maity,5,Simply awesome,nice pen drive good quality
+28,review-772f4be0-6da1-45f4-ba2e-351af5fed5c3,Bhawesh Raj,1,Absolute rubbish!,bad bought 2 pendrive 1 pic good another bad show system
+29,review-6c8b12ed-d4d9-4787-85b8-fc0e0054124a,Surajit Kayal,1,Hated it!,bad product
+30,review-c8e8bd5b-863a-452c-aa77-64d351dff634,Sk. Mustakim,5,Classy product,good product
+31,review-f0371108-f2c9-493c-bde9-0bcc0e74917f,vinay kumar sarahiya,1,Did not meet expectations,fast delivery surprised
+32,review-669d41b1-b3f2-409c-8062-d6ce4efb8cec,Sheik Nizarahamed,3,Nice,good storage space 28gbnot 32 28gb
+33,review-ae1ca71e-2a13-4b15-9403-2ce94bd10781,Bairapu arunkumar Bairapu,1,Worthless,u copy 8gb file shows error message eventho 28 gb space
+34,review-2c959d58-5db6-434d-a810-beae0382798a,Prashant Jain,2,Not good,specifications mentioned 32 gb 288 gb car stereo isnt able recognize im fully satisfied fit storing data
+35,review-26d023d6-75a0-4b5a-8b4f-db34d7cdb0c4,Dattu Bhoye,4,Good quality product,288gb
+36,review-1594e9d4-fc90-4d77-b944-471440da6154,Suman Bangal,5,Mind-blowing purchase,good product
+37,review-c7d9d1ee-3faa-46cf-8125-bf6f349b620f,Kalidass,5,Super!,must buy 4 350
+38,review-dcc612e6-24c5-4642-894d-7f2d35b5d11b,Adwaid K,4,Very Good,good
+39,review-417ec84e-5a87-448b-b6f9-16f0b96a8901,Prakash Pandhare,5,Just wow!,excellent product lower rates
+40,review-3d7ce156-8e89-4cb8-92d4-54c041fb838d,Flipkart Customer,2,Not good,bad
+41,review-bb9d7987-0c24-4e1f-a585-339c5c443bd7,Kishore Dinkar,3,Fair,good
+42,review-67d77e28-78c9-4348-861a-c2ebd80c5df2,Vijay Kumar,4,Pretty good,super
+43,review-fef0b36e-ebe2-41cc-a822-0763fba5b63c,SENTHILNAYAGAM NAYAGAM,5,Must buy!,super pen drive coping fast
+44,review-f79be4f2-702f-4ba1-a812-fe71175c8422,Chandan Mishra,3,Fair,32 gigs drive cheap price speed good comparing 32 gig pendrives copying speed also fluctuate constantly goes return 0 mbps
+45,review-385458a0-24e4-4e70-bbbd-920e0f438ad3,Priyanshu Jain,5,Must buy!,best class awesome speed go seamlessly
+46,review-5213f1b0-3029-4b67-b39d-c56a2db7689b,Yashvinder Singh,5,Awesome,good quality
+47,review-ebd2b400-4dd0-4112-8b57-ab231dc3e8d6,Arvind Kumar,5,Just wow!,good pendrive speed good made thailand
+48,review-32a3a73a-f4b2-4da5-957a-73f9e0e62440,Abul Faiz,5,Awesome,provide six star give
+49,review-b51588e4-ebc7-415b-a8d0-72d418a36130,SREEJITH AS,1,Useless product,item worked beginning im aorking outside
+50,review-6f7d3035-1329-4d7b-9069-62628b4f7e8e,Mohammad Javed,5,Brilliant,good
+51,review-eebea421-8f4b-46da-b3c5-394c74b855d9,Indrajit Ganguly,5,Worth every penny,value money speed copying superb
+52,review-b3e79f6d-13ed-417c-bcaa-1e3947c56dd1,Ajim uddin Laskar,5,Mind-blowing purchase,item good
+53,review-a3c301b9-3ce1-4edb-ab85-38c014bc424f,Yuvraj Vidyadhar,5,Perfect product!,ive using open drive weeks performing per requirements far 32 gigs get 28 gb use par far 32 gb pen drives concernedit sturdy build promises longer life probably good performance priceits good go pen drive per experiencerecommendation yes
+54,review-bfec32cc-75f3-42cf-a4f6-7ee1eeda6717,Rakesh Moharana,5,Excellent,ok
+55,review-e5d4e7ae-472f-4fa5-a9d9-47c41077f783,Pradeep M,5,Great product,works per specification good product price
+56,review-f066cb99-6cc5-4a52-ab37-3027a17baea4,Sai,3,Does the job,best product
+57,review-50cd230a-8cb4-44f4-990d-69476c44bc76,sandal jain,4,Pretty good,speed good
+58,review-998d8518-750a-424d-9977-cbd766e436e0,Flipkart Customer,4,Good choice,good
+59,review-f5d21859-5845-4bfa-b053-2121b3954f8a,Kuldeep Singh,1,Hated it!,working connecting otg
+60,review-5ea613ec-539b-4a88-941a-09bbbfbc63aa,Babbu Shaikh,3,Good,ok
+61,review-b97b8a0a-8c36-41af-bdc5-de5077e96f35,swapnil rudra,3,Does the job,product good moderate speed given
+62,review-13647b31-4d87-4e30-8020-1f8e9e6f0c3f,Sujatha Kolli,5,Mind-blowing purchase,product awesome
+63,review-c7dc8d27-e073-4af1-8d58-0d8e61c3bb4c,Shubham Kumar,5,Just wow!,good pendrive nice design
+64,review-305c9f74-9207-4927-809d-a91b1ef1782e,Flipkart Customer,4,Value-for-money,nice
+65,review-446e4ede-e06b-427d-8328-990163e1ac6c,Sabyasachi Beuria,5,Mind-blowing purchase,great purchase
+66,review-1aff91fd-018b-4398-bf91-c6dad38e5167,AMRIT CHATTERJEE,2,Bad quality,good somedays showing problems copying speed average 9 mbps suddenly drops 0 every use
+67,review-1f673322-68ab-4a43-939e-7bb49603ba0c,RAKESH AHIRWAR,1,Utterly Disappointed,speed slow
+68,review-59e74530-2e8f-4374-9bed-77ffb5e25d4c,VIMLA JAIN,5,Highly recommended,got nice packaging 288 gb normal speed fast much heating transferring 4 gb files feel best pendrive reasonable rate
+69,review-9c163737-e738-4495-ae82-6fd5fd0dadf3,Nadeem Ahmed,4,Worth the money,nice producti bought 2 pendrive 642rs
+70,review-2f4a08ee-f527-4f6a-83a3-a6c66067ebad,Pankaj Kumar,5,Must buy!,good read write
+71,review-d0906031-4cdd-4004-9736-9daaa79a0768,Flipkart Customer,4,Wonderful,read write speed best im impressed
+72,review-68943695-96a8-488f-8b5b-631620c44a9d,abhi prajapati,5,Terrific,nice product
+73,review-e99b1dc7-34d9-441f-896f-29cd77423ea5,Anjum Parvez,5,Fabulous!,good
+74,review-22adfd06-376b-413b-8e91-ca4b26b5e39f,Guduri Veera venkata satyanarayana,4,Nice product,nice
+75,review-0ebf2e33-91ff-464d-8f52-34c29e5b8402,Flipkart Customer,5,Fabulous!,supperb
+76,review-55f88aca-1b0d-43e7-87ca-0a7777e64701,Manjunath Kulkarni,4,Really Nice,good one
+77,review-fadcb2d0-4f69-4642-80b2-a29b6b62a632,Gaurav Sharma,5,Mind-blowing purchase,good per expectations
+78,review-3f37a2d4-c1c8-4cb2-9f96-7c1b51fa77c2,Shantanu Das,5,Best in the market!,wow
+79,review-46678ed6-8474-4c6f-872f-7949418d8c37,Rebot Dutta,4,Pretty good,nice pandrive really like
+80,review-ccbb4527-4665-4d7f-9f50-c233770c4c3d,Kalyan Singh,4,Nice product,good
+81,review-3b28b7fe-ed5d-4bb2-be35-fbb399095f44,PRASAD PVV,5,Perfect product!,nice pendrive prive
+82,review-4155465a-28d5-4396-8d5a-5c2c59f064de,Rajni RK,5,Highly recommended,nice
+83,review-792fb61e-d8f6-43dd-a1de-00f63d6f2724,Flipkart Customer,5,Perfect product!,great product 319
+84,review-7bc15d4f-0d32-48a8-8a57-005e63e4ddeb,Sudhakar Pandey,5,Fabulous!,good one
+85,review-02d2109b-3249-4982-8de2-75d9d4276ff6,Matun Tiu,3,Decent product,gd one
+86,review-851d75ab-1dfa-42e2-9c0c-abd73ce02394,Selva Ganapathi,4,Value-for-money,best price value
+87,review-d6f2bad2-afe7-4104-8ee3-526100529328,Rohith mk,4,Value-for-money,gud product
+88,review-c81092e7-e5fc-4dbc-8687-eea68cf0b0a7,ASHVINI SHARMA,5,Perfect product!,awesome product good quality
+89,review-0661ba00-29ea-4863-8013-fd7e94268e7f,Viswanathan,5,Simply awesome.,value money
+90,review-58e8f82a-4bae-492a-b758-c5f347e7ee09,Flipkart Customer,5,Highly recommended,good quality quick delivery awesome super
+91,review-9a226db7-a03f-401f-88a8-8ad57fd622e0,Ramu Kunduru,4,Wonderful,build quality super speed good
+92,review-6924865e-bbc3-42dd-b2fa-d4599637e052,Flipkart Customer,5,Classy product,great
+93,review-cc3b9e14-e785-433f-a8d1-b4d3740ccda9,kammela satish,5,Simply awesome,got 351rs worth go
+94,review-6948e80f-9154-4206-ae3e-72568094eecb,Aditi Roy,5,Brilliant,great product
+95,review-31c3cb2a-8c63-4c26-9210-10b7b916a363,Divakara Rangappa,5,Excellent,supergo thiswithout hesitation
+96,review-dd54b7ec-142d-4286-968f-0fe302f2883c,RAHUL KUMAR,4,Good quality product,gud
+97,review-2b8191f1-cb1d-4216-b302-5add458ac3bd,Bhushan S,2,Could be way better,otgworst
+98,review-c42fbc1c-3da1-4ba2-b5e5-feb16613a7d1,Md Asif Ali,4,Pretty good,good
+99,review-e7f50893-f694-400f-8e5f-118111a58f19,Rishikesh Debbarma,2,Slightly disappointed,ok
+100,review-8d153f18-6375-4519-b509-42372bcc5b7d,Flipkart Customer,5,Terrific purchase,good
+101,review-d6aeb97a-78aa-4335-916e-64a1542de78a,Flipkart Customer,5,Fabulous!,nice product
+102,review-49fc4b88-84f9-4f40-bc0b-f0b5ed054de5,Flipkart Customer,1,Did not meet expectations,deserving single star got corrupted connected system copying movie
+103,review-716767d6-e78e-40ae-a2e4-d0597886d5d9,Flipkart Customer,4,Good choice,value money
+104,review-4b662b13-54ce-4555-8563-78051e3c8def,Sathiyaprakash s,5,Fabulous!,wow
+105,review-c3b5d35c-343b-4da3-a352-c57093276a1b,Ajit Kumar,5,Fabulous!,good
+106,review-769d3139-a8ac-4290-98af-c4dc212c4370,Flipkart Customer,4,Worth the money,good
+107,review-567dd7fc-2825-4ad3-8f5f-78d5d130f7ac,Flipkart Customer,5,Simply awesome,good product
+108,review-925e5a6b-b694-417d-93e4-80d8241f72a6,Shaik Tofiq,4,Wonderful,nice
+109,review-eb6c037d-8b46-48e5-973a-697ef8a73740,Nageswarao Nageswarao,5,Terrific,excellent product n delivery superbgreat flipcart
+110,review-54879fac-f43d-4959-a4ec-b599899abe3b,Prajval Zaware,4,Pretty good,good product effective price
+111,review-465580f9-9a41-41f8-9dde-5974a31a91cd,Adhikrao Ghadage,2,Moderate,otg connected
+112,review-d7f088a6-b70e-49bc-9e14-3dc1d1fa4f02,RAVI PRAKASH DAS,5,Mind-blowing purchase,good
+113,review-c34a1d8c-2583-4f69-8355-7fcd28cc26c4,Flipkart Customer,4,Very Good,bad
+114,review-597061c8-657b-4832-ba4b-a5895789d7c6,Flipkart Customer,5,Simply awesome,superb
+115,review-a26c20aa-bcd4-4ec1-bd86-0973b0215cfc,sonu chauhan,1,Did not meet expectations,total waste money
+116,review-74a085e7-8cb5-4ec3-acee-580b1b0a9faa,Arun M U,3,Decent product,good speed
+117,review-a153253d-9e2c-4891-9645-e2221f64a28e,Deepak Mishra,5,Must buy!,good one
+118,review-1e83e569-4cd4-46b5-a32c-16354ddb34ff,Balwant Singh Yadav,5,Perfect product!,excellent working
+119,review-84f87f97-7d26-441c-897f-8f02452d8f7d,Subash Bal,5,Highly recommended,simply excellent
+120,review-7e658cf9-a376-4095-9125-ed9dbad9f316,Aditya Prakash Sharma,5,Fabulous!,nice
+121,review-f4104011-50ce-4123-8651-ecb9df8bc939,Sunandan Adhikary,4,Really Nice,works fine speed decent would suggest cheaper good quality alternative
+122,review-6e643530-381c-4dc9-bb94-17c9b80472c4,Swapnadip Sahana,3,Fair,good product
+123,review-94b8be21-80fc-44ab-8c26-7194a9564607,Vishaka Naik,5,Best in the market!,wow
+124,review-35c7e72f-a4e4-4d4f-b9f9-01c5de5bb008,Flipkart Customer,4,Value-for-money,good
+125,review-a06ddbdc-8a0a-4eb8-85a9-c23c2d3c14b9,Sudheesh Kannan,3,Just okay,27 gb available heating issue
+126,review-5015a10d-6f56-44cd-8adb-d89c47b27c3f,RAJKUMAR NETHA THUMMA,4,Good choice,good
+127,review-20aed39e-8a0a-40ac-80fc-de46fce381b4,Flipkart Customer,5,Awesome,buy good quality product brought 351 like become cheap
+128,review-3192097d-312a-4f25-a325-51980db69624,Anand Kumar. S,5,Wonderful,nyc
+129,review-105983c1-46e9-4529-9738-f0898a48ae78,Flipkart Customer,5,Just wow!,best product
+130,review-104b3ef6-20b7-4c20-8243-34424dd01b1b,Subash kannan R,5,Classy product,cheap best product
+131,review-a75609e9-3361-4e5d-8e5c-92e8af4d48b7,PRADOSH KUMAR SAMANTARAY,5,Great product,good looking products
+132,review-d8263e5c-018e-4064-8a51-db62abdb38cd,Zaki Anwer,4,Wonderful,nice
+133,review-633337dd-89c8-47d4-80ae-3115750c1469,Sanjit Jamatia,5,Mind-blowing purchase,going well good quality looks
+134,review-5a1b0f8a-be49-4905-bb66-c63f5171b1c5,Shagul S,5,Great product,great product
+135,review-a52b72d6-ffbb-4051-a36f-5653e1a54f7d,SARAVANAN,5,Fabulous!,good
+136,review-752db8bd-d3f5-4d8f-8cec-68a8be4b39fe,Flipkart Customer,1,Terrible product,worst ever experience online shopping working 34 use
+137,review-8d63bbcc-6113-4ac2-be58-2b57f2e33419,ANIL KUMAR,5,Brilliant,100 genuine product wonderful price rs 333
+138,review-ba024559-93bd-4a77-a8f1-28fcb4783fcf,Kokni Vishal,5,Perfect product!,good product
+139,review-f6815808-ea25-45d8-883f-2481d5f90c12,Flipkart Customer,5,Fabulous!,super quality
+140,review-b902a112-6a4a-4fd7-bca7-dc1f697b007b,Akmal Quamri,5,Simply awesome,happy order flipkartreceived nice product
+141,review-586efb6f-5e2e-4e20-93a6-d28d9a04cd9b,ROHIT KUMAR,5,Wonderful,received todayvery good product nowlets see long workthanx flipkart
+142,review-3cae1d47-d9b1-4107-9e62-3629c1d97a0e,Flipkart Customer,4,Really Nice,nice
+143,review-890a3de4-3c6f-4db6-b97d-fc1102553014,Flipkart Customer,5,Great product,product good
+144,review-6d51154b-077f-4671-904f-a929c3e8aa8b,Milind Ghuble,4,Nice product,good product
+145,review-4f74927b-693c-4dbb-a60e-0809109dc85c,Flipkart Customer,5,Terrific purchase,good producton time delivery
+146,review-0567d32f-c459-4555-a015-7179652f871a,Sarweshwar NAYAK,5,Just wow!,nice product
+147,review-fcef6a26-0a75-4bfd-9561-5da57ae36f3f,Ray jaun Jaun,5,Awesome,gudworking nicely
+148,review-2ffe462a-017e-4f4c-b501-d2f9a0547da3,Rahul Kumar Yadav,5,Perfect product!,easy use
+149,review-6e2768e8-ab39-4803-ba7f-476b72b4f348,Vipul raj Priyadarshi,5,Terrific purchase,nice product
+150,review-a931e522-6edc-4ca6-ab3d-cd09b1ac3975,Rintu Ghosh,5,Super!,good
+151,review-89010825-e02e-463a-bc76-dce574f7d782,Surender Sharma,5,Simply awesome,good product
+152,review-7561f97a-f02a-46e0-9e94-278a202aae4f,Mayank Panchal,5,Fabulous!,nice product working fast
+153,review-93af4a37-5425-44d7-a4b1-3113fbbba72f,Flipkart Customer,5,Just wow!,satisfied
+154,review-60e3f8b5-61bf-4080-b4b3-47944f6a521a,Amit Nandi,4,Value-for-money,overall good items space 288 gband speed expected
+155,review-4a11acc4-56a4-48a8-a370-91aff3e65174,Flipkart Customer,5,Just wow!,good
+156,review-3004c17b-dc9f-40b7-88e4-44bd1915f2c1,mukesh kumar,5,Excellent,good quality
+157,review-13d7a41b-0cab-4117-b576-e842feb53ad5,Vijay Kumar,5,Wonderful,nice
+158,review-fef729e8-43df-4616-923a-bc8662a34e8d,Shubham Kumar,5,Fabulous!,worth money nice pendrive
+159,review-51821e4f-1053-4a6c-9a10-515fdf07feb8,Rajesh Kumar Rachakonda,4,Delightful,working fine much heating
+160,review-c5fdca2a-674b-4ab6-bb0e-053092d990c2,Mani Thangavel,5,Super!,super style
+161,review-d6664117-90cb-46c5-ab91-ecac916e88bb,Flipkart Customer,5,Simply awesome,nice product
+162,review-03ca212c-639a-4b40-9df6-0435545ef38a,Dhirendra kumar Kushwaha,5,Super!,value money suoerb performance durable go
+163,review-a076291d-9408-4feb-9285-970bfd485a0b,Flipkart Customer,5,Great product,good
+164,review-8a87f18c-78e2-4d3e-a2e6-8baad878c6a6,Flipkart Customer,4,Value-for-money,beautiful look useful
+165,review-ba7e9005-c397-4bf4-bd96-7355268a2387,Santanu Saha,4,Delightful,good
+166,review-46b2e5e8-63cf-44b0-bb8b-fa83bcdc013e,Sangam Thapa,5,Simply awesome,im happy product
+167,review-6dff6ce7-a946-42a0-b5c9-b65655b424b9,Flipkart Customer,5,Worth every penny,good quality
+168,review-b7ee2fda-6915-4290-95e8-16bcbc8a1375,indra udumula,3,Does the job,data transfer less quality good
+169,review-a8b3cb74-29e4-4093-a994-d1ab24b1da68,Riju Modak,5,Awesome,goodvery good productyou buy
+170,review-7055a6f6-9ad0-41e5-be45-f6c3fc84e12c,vinay Kumar sharma,1,Worst experience ever!,git defective piece
+171,review-fdac1718-918c-4756-b6a4-b3180acd3754,Maheswaran S,3,Decent product,good
+172,review-6e89be29-a920-4693-b132-83988dc3511e,Deepak Tejaniya,4,Good choice,support otg
+173,review-a953a25e-11b9-4068-b00d-8513cea63d7f,Flipkart Customer,5,Excellent,owsm prod
+174,review-ac915bda-647e-42e0-a8a9-b446452ad328,P yashwanth Reddy,4,Worth the money,good product
+175,review-6e7b918f-3ea2-49ae-972d-c599a6ced80c,Rajkumar Gandloji,4,Good choice,good workingnice pendrive tq
+176,review-1226b9b5-2b40-4c6b-a441-5e0265d669fb,Manoj Singh,5,Best in the market!,good product range
+177,review-ac0728d7-e8b6-4231-8f1c-7a154c3b9bdd,Munnabhai Dharajiya,1,Absolute rubbish!,purched pebdrive pendrive deta store data currelt
+178,review-c921a645-474d-4e98-9770-1c5704ad1970,Flipkart Customer,4,Wonderful,fantastic usb much batter sandisk pendrive
+179,review-90f1ddcc-ca94-484b-a09b-77d4ec477e8b,Farhaan Khatib,4,Pretty good,worth every penny good built quality
+180,review-3cc6c31c-3b11-4b5b-8ddc-fe715fb902e3,Flipkart Customer,5,Best in the market!,good product
+181,review-5a45236b-199f-4d39-9154-ceefe43a395d,Rijun RK,4,Wonderful,good
+182,review-e02ba6f9-6dde-4e3b-9d08-d2dfc4148b93,Khaja J,4,Pretty good,nice pendrive transfer speed low good
+183,review-91072c19-f0fa-45b1-b7ad-ff01c0b0c875,SUDHANSU SEKHAR PRUSTY,5,Super!,nice
+184,review-df1bd869-b084-4da1-a972-b83848c7c9c8,Ganesh Sen,5,Terrific purchase,perfect
+185,review-9d081588-f22f-4020-a26c-8953efec9e07,Sanny Vasani,5,Highly recommended,product good also material quality goodworth product
+186,review-7e6c658f-0e28-44ff-afed-d7841051bf14,nishant srivastav,1,Unsatisfactory,worst product working otg responding takes much time suggest buy u r think use laptop mobile good desktop
+187,review-9db05644-024d-479d-860b-3a07f4029c2f,DEVENDER DHARAVATH,5,Brilliant,given pen drive 32gb correct actually 28 gb
+188,review-cbc73a2d-9cb4-40db-942a-6ae33512609f,Pramod Kumar,3,Just okay,good slow
+189,review-0e465494-c527-4f83-811e-cd3c1f419c81,Raju Kumar R.k,2,Slightly disappointed,good
+190,review-c634e699-41e8-44b8-89a3-1063bf7a6276,Flipkart Customer,5,Just wow!,ok
+191,review-d5999806-fc8c-4c11-be50-641ff88a08f4,Surjit Bhosale,5,Just wow!,nice looking high performance must buy
+192,review-8177cc76-8cc5-4247-a04e-fffbb3f546ef,MYTHREYA RAVVA,5,Highly recommended,good product
+193,review-94f5c163-8f81-40b7-8902-7204c5f90a68,Pradeep Kumar,5,Worth every penny,vlu mony
+194,review-4373f529-2831-4fbd-872d-40672e814406,Satish Survase,5,Fabulous!,nice
+195,review-6e802474-b903-4ffd-ac63-816bf3d2166a,Srinath HN,3,Fair,good
+196,review-c1254706-bcb9-4f1d-b321-7e56a6958d7b,senthil,5,Awesome,fabulous
+197,review-312045f8-4f6c-4fe4-a4d5-abeae4cf0f6e,Mahadevaswamy M.P.,3,Fair,nice one
+198,review-1c20b581-b77d-41df-a8f5-114563c084e9,Kuldeep Singh,5,Fabulous!,nice product
+199,review-14582d96-b80f-4650-af0e-35ba8c753c4a,Flipkart Customer,4,Pretty good,good product price
+200,review-8477ce80-4a9e-4083-bc3c-5d40e07526c6,Dharmpal Singh Chandolia,4,Very Good,look beautiful write speed slow approximately 56 mbps usb 20 laptop think speed faster usb 30 device test due non availability usb 30 port used another toshiba usb 30 pendrive laptop speed approximatly opinion type usb 30 devices useful usb 20 devices use latest divices usb 30 supported type product become useful higher speed
+201,review-3d8a662f-c949-4ed2-90f4-45ade6e6cac0,Arun George,5,Simply awesome,good oneusefull
+202,review-61d4a798-dec6-4062-a8a3-ad5352335995,Jatin singh indolia,4,Value-for-money,good
+203,review-27e49b0f-ef33-4746-af38-8d50a9594626,MITHUN SIKDAR,4,Worth the money,good
+204,review-82eb00cc-0baa-4c23-b52e-0fbd05d80c92,SWAPAN KUMAR BALA,5,Classy product,wonder product
+205,review-6dbf2dcb-9b01-48d9-a5ee-e26365b8a0e0,poongavanam b,1,Did not meet expectations,goodejecting automatically
+206,review-c35eb3b2-1bc8-4e2f-b30d-b846cc6da734,Flipkart Customer,3,Just okay,ok
+207,review-42140d4b-b6cd-4360-acf1-d31c72ea33bb,Rathinam Krish,5,Awesome,awesome design quality
+208,review-f5004fbe-9324-4228-a38b-5370aca5a0de,SARATH KUMAR,5,Highly recommended,best
+209,review-27de52c9-3fee-4356-9cae-2583eb38189d,Akshat Singh,5,Fabulous!,nice pen drive fast readingwriting speed price segment
+210,review-801d0560-4ab8-4fbb-b2cc-bd0e78e98bfb,Flipkart Customer,4,Good quality product,nice product
+211,review-b4d1c902-8b49-444f-b7e7-50725ddb1c2f,Dhinesh Kumar,5,Excellent,good product price range mind blowing purchase usual time delivery flipkart
+212,review-0a410b19-6ca1-42b7-8998-c9032f815dc2,SUMAN DASH,5,Mind-blowing purchase,product good fast
+213,review-cdbfda4a-b4da-419d-b22b-02517bddb43f,Dinesh Kumar,5,Perfect product!,awesome
+214,review-c5d2159b-02f0-48f3-8b69-d07fea9ae8ee,shubham khatua,5,Must buy!,impressed
+215,review-898cfacf-4a19-4367-8030-8b9f9e9cf36a,Flipkart Customer,5,Wonderful,super product
+216,review-f4735295-78fa-4821-ab3f-2c02e5a91516,Afroj Sardar,5,Mind-blowing purchase,nice
+217,review-43132653-e38c-4c60-b2b6-07f422a7027b,Rahul Suryavanshi,5,Fabulous!,good product low price
+218,review-fc694765-7921-404a-9cc5-34fd8b7e432b,Sk riyaz riyaz,3,Nice,good itam
+219,review-9a7da0f1-7d9e-4b02-ae54-0f338bbfaa35,Chinta Srinivasa kumar,5,Brilliant,nice productgood quality
+220,review-710204fa-5d93-4d03-94ee-8c10849b9dd6,Sambaraj N,4,Really Nice,nice product tha best quality
+221,review-916df10b-d8ac-4cd0-b158-2fe692bee103,Arya Sharma,5,Worth every penny,supar quality thanx flipcard
+222,review-94310757-0e5c-4b08-a91c-35b4a2b69545,Palash Mandal,4,Very Good,good
+223,review-e954ea00-27f3-4f4c-949b-b0b162196d01,Sridhar R Sri,4,Nice product,good condition
+224,review-acbaff9b-76ff-4e6d-9c6d-4b3c411d94ca,SIBU KUMAR DAS,4,Wonderful,quality expected
+225,review-0bcebbd5-84cd-4429-afb8-ae28a825b1ad,Anwar Dalvi,5,Best in the market!,genuine good item data storage needs
+226,review-c34ab565-3d5d-4d71-afdf-caf94f110cb4,Flipkart Customer,3,Good,ok
+227,review-56cea463-98f1-47aa-8acf-3a2631d7016a,Sanjay Verma,1,Horrible,worst productspeed slowsometime disconnect automatically
+228,review-b6a6327d-5656-4d08-8210-0ef66ad026a5,Flipkart Customer,4,Good quality product,good
+229,review-31815710-944b-48b2-b232-641f4bb0e95c,Arun Kumar,5,Perfect product!,nyc
+230,review-81bf185b-3379-4678-af6e-203bcbb4748c,Biki Sarma,5,Perfect product!,genuine product thanks flipkart
+231,review-794b23d6-44d6-420b-92b5-b8b0110fdf71,Islamic singer-Mohammad Ahmad Subhani Qadri,5,Must buy!,bery good
+232,review-f67cb840-0ac4-444a-82a5-02b4a389e545,dutt sahota,4,Value-for-money,good
+233,review-0fa90e2c-dcb5-4a5e-8898-9ba10787193b,Akshay Chandran,5,Super!,must buy
+234,review-ba828fe5-5a2f-4bc7-8666-74b4c9fd2575,Flipkart Customer,5,Super!,nice super pendrive
+235,review-c917de87-fef0-4407-bbd2-1abc22f367eb,Shubham Mishra,5,Brilliant,deserve 5 star
+236,review-4eea909c-f9e5-450c-9bfa-9e0266ad389f,Flipkart Customer,5,Just wow!,good
+237,review-d9307ed6-2aed-49ea-b990-6d113e367a6f,Flipkart Customer,4,Worth the money,awesome loved
+238,review-d654505a-3d61-44e0-9238-f17889971c32,Shwet Kamal,4,Pretty good,nice one
+239,review-b35acc7c-e389-479e-a68c-ed894fad9c02,KASI SAITEJA Kumar,5,Super!,osm
+240,review-0489fe67-82af-4217-bd38-e43d480e6b75,Flipkart Customer,5,Highly recommended,good
+241,review-d5031b96-3aa4-4416-b9f1-c33f97bc0610,A. Saravana Kumar,5,Awesome,kingston pen drive super
+242,review-778d41fb-5da8-4505-90e4-cdb3825926ae,Prathap Raj Muniyandi,5,Simply awesome,good
+243,review-17bb1460-e854-4b2a-a1ac-4db7d2674dc4,Flipkart Customer,5,Awesome,good
+244,review-54b61a3c-fb27-4bcb-8091-8239e22477ef,jeeva ramya,5,Wonderful,super
+245,review-613070bf-210d-49f5-89fe-296ec71fcfe8,Om g jadav,5,Classy product,nice product price best
+246,review-b09dd801-90bd-4790-a003-76876a1355ff,Prateek Rajput,5,Fabulous!,awesome
+247,review-756de38c-7f49-4c62-bc3e-d0873cf39a7a,Vishal Pal,5,Highly recommended,design good know delivery time delivery
+248,review-d6f0b8d6-6fe9-4740-a1f1-e4bd0fbfec8f,ABHIRAM M V M V,4,Really Nice,good one
+249,review-c57dbb60-4533-4406-b8ad-481c4962d0c5,MUHAMMAD PARVEJ,5,Terrific,good pendrive
+250,review-03642c9b-3112-46f6-879e-87b36e5fa1f0,praveen kumar,4,Delightful,good
+251,review-1a3d7bc9-62f8-480f-a4c7-fbc2ae964a46,Mr. Vivek,5,Just wow!,stylish fast incredible product
+252,review-3de968c7-c1b3-4f78-8de0-9988758c87f1,Arunjith Meppayur,4,Wonderful,good product stylish
+253,review-4ab69828-9a94-4a93-a773-f5d37c72977f,Flipkart Customer,5,Worth every penny,ok
+254,review-a51f2474-735b-4297-af4c-11026fd71cdd,Mohd Faiz,4,Delightful,really good pendrive get scratches easily
+255,review-e9945ab9-6e99-441e-86a2-4def4de6b15f,biltu basak,5,Great product,nice productand fast deliveryno issue
+256,review-66428e83-ad18-47ed-a47d-aa31601016e5,Flipkart Customer,5,Super!,love pendrive superb speed heating issue style delivery time suggest also buy
+257,review-8adabcca-d068-4194-b5ff-fe77169a8974,Sourav Ahamed,5,Mind-blowing purchase,fabulous
+258,review-f4923feb-696a-4f65-b19e-54b769b4c156,Flipkart Customer,5,Awesome,super
+259,review-3cee1400-d089-44fd-9c09-d68d2ec656e9,PEEYUSH KUMAR,1,Absolute rubbish!,speed repeatedly drops 0mbps 5 sec average transfer speed 10mbps 30
+260,review-db61d8c7-d66b-468a-b2ff-5cd82cb34f57,Flipkart Customer,4,Value-for-money,superb performance
+261,review-d83b9e1d-17b1-43f1-b0cd-9d463efe1e66,SUMAN GUIN,5,Must buy!,good product greate
+262,review-46f9c3b8-07d8-4f68-b4a9-79f8b522ae44,Rknaidu Rknaidu,3,Fair,free space 288gb
+263,review-1c5fe308-5128-4a21-9c2c-418b905c8df4,Flipkart Customer,5,Best in the market!,nice
+264,review-7b89e077-a625-44a7-9e7b-759a652719e6,Flipkart Customer,5,Worth every penny,good
+265,review-a1853dda-565b-45fa-95df-f5f07a9f8fa0,Rakesh Kumar Behera,5,Classy product,excellent product
+266,review-2d71b639-368d-4bc7-bab8-e7a0a013169a,Mahendra Anuragi,5,Just wow!,nice product value money sandisk better speed
+267,review-c016659d-7c06-4174-aaf4-cb10e17ac0bb,Flipkart Customer,5,Perfect product!,noce available 29 gbood working
+268,review-767c8102-4d21-4e0b-b5ca-6460906cfcc6,RAJASEKHAR REDDY,5,Perfect product!,awasome product
+269,review-6f5cae3e-f566-42cd-bab6-66e3c71602b5,Flipkart Customer,4,Really Nice,good
+270,review-5da58252-fa5e-4355-9afa-c18bbe43fbf5,Aslam Ahamed Molla Aslam Ahamed Molla,5,Perfect product!,good product
+271,review-6d387700-3d14-4fcb-af98-088f206975a9,Flipkart Customer,4,Really Nice,super loss
+272,review-4401071d-fb25-4fa0-bf60-da70679cbb2b,Narendra Kumar,5,Perfect product!,good
+273,review-0f21ab33-b596-4f32-a1be-22891666f68c,Flipkart Customer,4,Nice product,good product
+274,review-4dc2b236-2644-42e3-9752-b364c9e70112,Mohd Shadan Khan,5,Perfect product!,nice
+275,review-cdcfe423-d1e5-43ae-81b4-f9c095922bfc,Sesha satya sai Puvvala,5,Worth every penny,nice
+276,review-1882f486-f169-4564-a7ac-331d4ff4224f,Abdul Khaliq,5,Super!,super speed
+277,review-6d73edca-2922-4473-a103-bca39baf418f,Sangram Mohanta,5,Mind-blowing purchase,good
+278,review-ed7254ff-038b-4101-bfb9-6721458141c1,Debanjan Goswami,5,Great product,nice build quality expected kingston product looks great performs nice copying speed reaches 56mbps normally
+279,review-77f4c642-13f2-4412-8d2e-511dd8c87a97,Flipkart Customer,5,Wonderful,nice product absolutely right product
+280,review-9ab59cd8-225a-442a-8565-b9aebfde7e20,DEVENDRA KASHYAP,4,Worth the money,best speed pen drive
+281,review-c487d466-8b57-43d2-970e-c8f0087ea01f,Jai Pal,5,Wonderful,good product
+282,review-f27b69b8-d648-4391-9a51-55ff2e18d7eb,Ravindra Singh,5,Awesome,trusted brand pendrives metal body long durable use
+283,review-7e5747ee-7bdb-4a78-8ef6-ba8ff02c9d6d,Subhajit Malla,4,Value-for-money,good writing speed comparatively slower sundisk 30 terms reading speed
+284,review-659e6531-39af-4320-8616-4664071ad748,Praveen Koti,3,Does the job,super pendrov
+285,review-97643be6-9d2a-4351-b8f8-8120908c3af9,Banibrata Dutta,5,Super!,feels robust touch pretty spacious 32gb usage isnt fast pendrive feels slow could predominantly using ssd pc laptop happy purchase
+286,review-cb1b4e9b-43eb-4d3b-b555-48a5a60b5a9e,Suman Das,5,Mind-blowing purchase,good far
+287,review-48dbe93a-49e2-4974-a849-0c02a0c8ee2e,Ajith Kumar Reddy,5,Must buy!,superb
+288,review-7b8d4350-b175-400d-8ec7-65cba923150b,Tamil Tamil,1,Worst experience ever!,good product
+289,review-083d5c29-6790-4da9-a2d2-35543b388d7d,Vikas thakur,4,Really Nice,excellent product
+290,review-1553e2aa-27b8-4c56-8d64-7c7d4603164c,Flipkart Customer,3,Fair,average product
+291,review-6c5af9b3-e422-45ee-9423-3a2f3f14749f,Harish harit,4,Nice product,good looking
+292,review-f27f11e9-7cc7-4acf-a3eb-8907d4f8f6fa,Parth Dabra,5,Must buy!,great copying speed
+293,review-f26922c0-62eb-4be4-a53f-3c7fff1ff358,Arvind Kumar,4,Pretty good,built quality good transfer rate data also good usb 30 price range
+294,review-c9d26550-7c2e-49d9-bd5f-721ac5da43b4,Adhikari Srikanth,4,Worth the money,good product
+295,review-f630b252-90d6-4b3e-b2c0-bbaded42a824,nikhil bisht,3,Decent product,bad
+296,review-a069fba3-c241-4d7a-8946-db59fd0677c7,Sandip Das,5,Awesome,good qualty product
+297,review-1ea91b97-4b44-4301-900a-45649e347311,Subhomoy Roy Choudhury,5,Classy product,great product
+298,review-3c0ff40f-10f0-4e42-b4a8-460186c51af4,Jitesh Patel,5,Awesome,nice pen drive
+299,review-2340b008-a8c0-4613-9922-aed0693d1105,Avula Nagoor,3,Just okay,good
+300,review-2dc8b020-b552-4bd6-af73-0d22a9995045,shovan ghosh,5,Fabulous!,grate
+301,review-9755bbb0-7d3a-426d-ae0c-55ddf7702c38,Anand Pratap Chaudhary,3,Good,good 0 b ps speed
+302,review-89c6e397-b32c-462f-ad75-7bf36c4e4312,Akash Dave,2,Could be way better,much strong assume
+303,review-dd47ce60-c07b-4a0c-b368-105c2900c160,Roy Key,5,Excellent,working find fast thank flipkart
+304,review-37cb4dfa-ed09-4947-b49c-f26b258dfebf,Abheek Majumder,5,Super!,excellent product kingston expected usb 31 speed quite good nice design
+305,review-804ae530-f704-4ba1-8c5a-7b1783d5f4dc,Flipkart Customer,5,Highly recommended,ok
+306,review-47c0570e-36e9-4678-9b14-2cf823003227,Jay Sahu,4,Really Nice,v good pendrive
+307,review-e0fcc379-a778-4d37-b8ed-8475a90dc6b3,Flipkart Customer,5,Mind-blowing purchase,good
+308,review-0de8bb0c-e36c-4737-a6fa-7f8cd9eb6977,Radhakrishnan,3,Decent product,good
+309,review-cd75c51f-d061-4643-9ee5-467545085366,Noburaja Ahmed,4,Very Good,nice
+310,review-500c76eb-f73f-45c1-b62c-075ffeb2d118,Abhijoy Roy,5,Great product,decent product
+311,review-8f8ef6f3-904a-4e38-8ebe-f2f3cb0c831f,pushpendra singh,5,Perfect product!,good pen drive fast speed
+312,review-d9c22fc8-a95e-49a7-b68c-d21d066ebed1,Harigovind Mourya,5,Highly recommended,nice product
+313,review-ae3ed08c-9074-4ca9-86e6-4d26fad3f7dd,Vinay Gupta,5,Terrific purchase,speedy pen drive wow
+314,review-8ab28a2d-09ff-4c07-8b62-1cfcf721feb6,Praveen Kumar,5,Excellent,good
+315,review-e2f012ba-0afd-4686-8042-d24e8ba9f354,Flipkart Customer,5,Best in the market!,nice quality
+316,review-857c1384-49f5-491e-8593-02c1ef30b174,Flipkart Customer,1,Useless product,size supposed 32 gb 3 gb
+317,review-c76f21e8-4ddc-48a6-ae7b-9d9748d5465c,Dhdhdd Xjxjjxxjx,5,Highly recommended,good product
+318,review-79be6616-3308-4a83-9430-1cda5aa19a92,BISWAJIT MOHAPATRA,2,Moderate,built quality super performanceusb31 slot writingreading speed 212mbps 4060mbps
+319,review-620ca49e-386a-4966-9b69-230c59219b62,Dr.Jitesh Jain,4,Worth the money,nice product
+320,review-f89a7881-da67-45d0-a3dd-d3c29eb15375,Dinesh Awtani,5,Perfect product!,great product came pretty fast seller day shippment done seller thankyou awesome product 313020 interface version pendrive go without second thoughts
+321,review-2201fbc7-9fa4-444a-969b-b4e7fb214dac,Sadanand Sao,4,Nice product,fast data transferring
+322,review-97f2c372-0bb1-4890-8875-5acb3339d6fa,SUDHIR CHAUDHARY,4,Worth the money,nice product
+323,review-e3db5058-7343-4d9a-be47-e5cfea97a541,arpit jain,4,Very Good,fast data transfer speed value money got rs 300
+324,review-b38e59aa-8eff-49ca-80b4-560ac5b21d1b,Chaithanya Yadav,5,Just wow!,nic pen drive value money
+325,review-9f24f6e1-50da-44b9-a38c-45fd4f2a3a24,Goalla Veerabhadra Siva Prasad,5,Highly recommended,good product
+326,review-6309dd28-092f-49a5-a111-e1ac23fac5b9,Rama raju akula,4,Nice product,good buy everyone
+327,review-527d51ef-57bb-4acf-92b3-f9c2b4ea800f,Flipkart Customer,3,Does the job,satisfied
+328,review-b219d598-5118-411f-bec1-d00232afa896,Raj Shekar,4,Pretty good,good
+329,review-6b9e3830-20df-484d-942d-a03c5017dc3e,Bijender singh,5,Must buy!,got 304only reading speed fabulous reading speed 90500mb writing 732 fluctuate average 1620 mbpsamazing deal price 304
+330,review-349d6e4a-8500-4360-8619-35b33590e1f0,Flipkart Customer,5,Simply awesome,nice product
+331,review-6b990793-060c-459f-9cfd-87b2f3aa8f48,Antony Raj,4,Delightful,looks like nice
+332,review-dee21944-0e74-4793-b4a9-3f702327b17a,Sheelu Boudh,5,Simply awesome,working good im satisfied
+333,review-1ca9248b-a52a-4c86-be90-2553686e4fdc,Kamal Porwal,4,Delightful,good product heeting issue damage effect
+334,review-6239389b-8726-477e-92a9-80d788e23b0d,Flipkart Customer,4,Good choice,good
+335,review-1d5f96d8-58d7-4be5-91f4-a61154e1c586,Manjinder Singh,5,Must buy!,awesome
+336,review-ce657749-cbaf-48cf-8e19-d64b129b3fa0,sourav sarkar,5,Terrific purchase,got 304 super copy speed usb 2 10 mb usb 3 17 mbread speed usb 2 31mb usb 3 70mb bttr dtig4 kingston
+337,review-2d9d067b-cd7b-43c1-93fa-35f01d8e0d4c,Vikas Dahiya,5,Must buy!,waoooovery good product writing reading speed good material also good fully satisfied
+338,review-a2a67f48-4d46-48a5-9a0c-476af7a611a5,PHANI KUMAR,5,Terrific,toooo much nice product like
+339,review-d8ff44bc-3140-4c2b-980d-6ed44437c32b,Rajeshwaran S,5,Best in the market!,nice
+340,review-a5ba7d32-7183-4f36-b6e7-871a411356ed,Eraveni Ramesh,4,Delightful,good product transfer speed also good
+341,review-15aef2e2-64f8-4e77-b75f-88bccc6a2dd2,baban kumar,2,Could be way better,working condition
+342,review-9e798326-801e-47ea-8c92-77fd6cf577a9,mohamed arif,3,Good,within 2mnths product got damaged nw claimed warranty
+343,review-fba893ed-6904-4387-963d-cb0056fc55c9,Preeti Sarkar,4,Delightful,good product
+344,review-929ce1ec-2fe9-4f5e-a627-13907ee81e4b,mandapalli chandra sekhar,3,Just okay,good look 32 gb 28 gb availablespeed ok much expected
+345,review-a252c7cf-c517-41b5-88d6-8ccaf129a6a1,Ravi Panchal,4,Value-for-money,good
+346,review-8dea0aae-9000-4216-b40e-be07f6ad4633,Pankaj Verma,5,Brilliant,best 320
+347,review-97320a45-1bb0-4a2b-b7d9-fcc7c59861b1,Rohit Jatav,4,Worth the money,good product reading speed also good
+348,review-09277ccd-3fab-4fd6-9e51-e1525732df49,amit mathuria,5,Just wow!,got 352 rupees good metal pen drive best class data transfer speed
+349,review-493f93b8-9e2a-4046-8a72-8530bcecc217,VENKATA RAMANA DUVVU,4,Really Nice,pendrive goodsuper
+350,review-a7d51450-3389-49db-bee4-38fbb0f917cf,Vivek Kumar,4,Worth the money,good
+351,review-0b4946fa-2d49-4189-8db9-4568d7481f44,Pawan Phogat,5,Excellent,nice product nice delivery
+352,review-2e29ed75-4e5b-4f3d-94dc-abcea5b09c41,Sarvagya Sinha,5,Terrific,best
+353,review-8427b1a2-4a0f-49c1-8bdc-339b74dca467,Subhradeep Mitra,5,Just wow!,nice product
+354,review-8e152e19-1997-4239-8e78-973c4f52b646,AJIT RAI,2,Not good,design perfect speed slow max 34 mb
+355,review-43bbfc6b-30df-4e36-9687-e449aeeb78a3,Binay Kumar Singh,5,Terrific purchase,suprb
+356,review-71da6950-5055-4724-a169-e1094912080a,Srinivasa Rao Maddukuri,5,Fabulous!,good
+357,review-037e45fc-89fb-4ff1-bfb9-e77a2a0a115c,Flipkart Customer,5,Wonderful,nice product
+358,review-38774bb8-9017-4823-9e7f-8a129d641dd7,Ravikumar Gouda,4,Pretty good,superfast pen drive
+359,review-2d2d3079-9da4-4a83-82db-ac0de852a83d,SK SAYED ALI,5,Highly recommended,item good
+360,review-7042c68b-bed7-41da-9cb0-340c7abc01a5,TUSHAR BOXI,5,Highly recommended,overall good
+361,review-75aad546-f5d2-45b8-bd75-c2be8436397b,Bharath Raj,5,Simply awesome,nice
+362,review-5f49e5c8-f295-4f66-8227-b79b286b5bc3,YOGENDER SINGH,4,Very Good,pendrive goodbut speed fastbut fine simple works
+363,review-c6015dab-d052-4a28-bb52-4c7cdd0b617d,Om Prakash,4,Nice product,good
+364,review-e48cfab9-ac46-4780-9f7a-bc483f6243f9,Sridar Justin,4,Really Nice,like
+365,review-48be9e7e-a1d4-4df3-8ff9-17f7bb8d5d50,Flipkart Customer,1,Worthless,dont buy received broken product
+366,review-f5623690-b5a6-4c6d-862f-c78f6afa7636,Devendra singh rathore,3,Does the job,rate copying speed pd pc expectation 48mbps equal 20 unsatisfied
+367,review-8f366ed5-8e1e-46ff-8573-b59bc79ccfc3,Prashant Bhasker,3,Fair,product good perfect write speed bad read speed good
+368,review-278a4cbe-c736-494c-8b09-23c41fab57ab,Joydeep Ganguly,5,Brilliant,excellent
+369,review-8936ecea-7269-4680-a8a5-7d33214eb8fa,Ahmad Sarif,4,Good choice,superbb produced
+370,review-8e93f8b5-1037-4e74-8b31-4d8f9aa58ec9,Kapil Kataria,4,Delightful,woow fantastic product price range happy fast data transfer easy carry
+371,review-432f98db-9b8a-4a41-b9ba-9f64f9c6269c,Subramonian Potti,2,Moderate,transfer files nightmare automatically disconnects transfer files
+372,review-17eec9ce-a02b-40d7-8bc7-30f1a7441998,Rajis Leon M,5,Just wow!,good product
+373,review-b5a14fdc-7bf9-4df5-9fec-eeb3bf12029a,Pratik Parmar,4,Really Nice,good product
+374,review-d1c8ef0c-5ae0-4b9c-9afb-28a7efbaae57,arijit konar,5,Fabulous!,awesome
+375,review-0c60d1e6-d5d2-45e1-a109-e6909e58a5d0,Danta Swamy,5,Classy product,ver nice
+376,review-e5ee5cb6-b59a-4095-903e-dcca2d78c12f,Vibin Johny,2,Could be way better,say pendrive usb 30 dont see way slow usb 3 sandisk ultra much faster disappointing thing liked pendrive build quality
+377,review-f2ad2df0-09ad-48c0-818a-c2ad0ff8c2e7,sandeep kumar gupta,4,Value-for-money,good
+378,review-788a8a23-d04b-4fd1-8927-76b68956a1e9,Mna Noor,4,Delightful,great
+379,review-cc0473f9-d9ed-4bef-bf71-79fcbe7757df,Ram Odedara,5,Super!,buy 319good option usb 30
+380,review-ea0ae44c-0d07-4c1a-a136-d9a1105c7367,Harpreet Singh,5,Wonderful,excellent
+381,review-aa6b8035-d1b4-4201-8980-c25ec298b5f2,Atul more,5,Classy product,awesome
+382,review-3ed3ce19-809a-4dc3-8673-95fd3f7fe187,Giri k,5,Worth every penny,super
+383,review-7237697e-519c-44d0-b7e9-211df5eac847,SHUBHAM,4,Good choice,nice product looking also awesome
+384,review-b2b20e4e-e6d9-4847-a53e-c95509ad251d,Kiran Kendre,5,Great product,ek number
+385,review-7d10f900-be79-4fd3-aa06-627a0b1d480f,Mohammed Faizal,5,Wonderful,great grab price gotrs361
+386,review-385262d7-bba2-48a9-ba1c-18ca5bb5a708,MARIAPPAN chandran,5,Great product,good
+387,review-f785d6aa-8f14-466d-865b-cf9f6ff4d64e,Rohit Kumar,5,Classy product,awesome product
+388,review-d0f0c9c1-390c-47f4-8aea-dc2a8cdb0957,Nishant Taela,5,Fabulous!,hhigh speed goodthe pendrive good data transfer rate good whymmmm30 speed read 120mb write 20mb20 speed read 40mb write 13mbandstorage capacity 288 gb pretty normaldesign 55black plastic body steel metal lid makes look gooda hole lid ringthe lid removed easily like look simplespeed 45when connected usb 20 portwrite speed 8 mbps read speed 20 mbpswhen connected usb 30 portwrite speed 9read
+389,review-96fb0ef4-4f5c-46ae-8d6c-94e94cae4abb,Devang Tandel,5,Classy product,performance awesome
+390,review-a23a6380-1119-47e6-b4a7-1e1886b41708,Nilesh Wahule,5,Great product,best ever
+391,review-1d325cda-5c53-4c5f-b0cb-6cd7554fa440,Vasant Basutkar,4,Wonderful,good
+392,review-28ad22c1-a629-40c2-9f7e-eaf1a68c2976,Om prakash Kumar,5,Brilliant,price good transfer speed pendrive laptop 3537mbps laptop pendrive 1719mbps think good speed value price got 399rs diwali offer suggest yoy want buy pendrive go kingston better sandisk hp speed
+393,review-7add255a-665d-4ff8-ae48-1d6666f323bf,Aman kumar Singh,5,Brilliant,awesome experience kingstonthanks lot
+394,review-5cc0eda8-bffb-4940-87af-469c632a94c5,SURAJ BHAGAT,5,Brilliant,best product hight speed downloading
+395,review-5a0560fa-98bf-4c2f-b08d-22cb94db7954,Flipkart Customer,5,Wonderful,niceperfect
+396,review-3290ec1d-965c-42c4-b32d-aace7c026a15,Sanjoy Sen,2,Slow pendrive,slower sandisk pendrive
+397,review-343f4963-9e26-4dc5-baf0-c68b0b0adcf0,Sujesh T,5,Highly recommended,nice package flipkart good budget pendrive
+398,review-4e1ad932-e149-47a1-b698-fa8903f306d1,Priyaranjan Behera,5,Mind-blowing purchase,good product value money
+399,review-7535305e-6ce0-46e3-9e6d-e186916efe61,Tazeen Raza,5,Great product,good product
+400,review-83a2521b-a6ef-4507-9af6-e3595c41a127,Ramesh Geethanjali,4,Delightful,good
+401,review-3a2aeacf-a34b-452f-8ba1-75d42f7de770,vishal rajvnash,5,Simply awesome,superv
+402,review-2a0db6ef-3df8-4fbc-9a7c-0ffe598fa8ad,John Britto,5,Simply awesome,superb
+403,review-b7453ee2-e254-4cd2-b09d-23f6625b93aa,sanju tisso,5,Must buy!,nice product delivered time nice packaging
+404,review-7659f5a9-3fdf-4b67-85b4-274499b951be,Ajith. A,5,Mind-blowing purchase,good
+405,review-eb263bf0-5101-4d42-976a-d6c831f3557d,Flipkart Customer,4,Very Good,nice prodect
+406,review-edf78217-9857-4397-8612-2d75b5bf0b32,Aakash Sinha,5,Awesome,awesome speed really like
+407,review-6ee50637-0694-4db8-a7c5-23512bbb8309,Flipkart Customer,5,Classy product,good deal low cost
+408,review-9afe684a-a4c4-4138-91e3-2a87f93af0b9,Ketan Kumar,5,Wonderful,good product
+409,review-05b7859f-7d2f-4129-b758-cc475efbd6a3,RAjesh KUmar singh,5,Must buy!,speed bw 7 12 mbps
+410,review-d9ae0d40-6f21-4d32-9e94-963e4a63519f,Anisur Rahman,5,Excellent,much
+411,review-8bcc19c7-3101-49bb-aa18-0a4a6d98f000,Kani Mozhi PK,4,Delightful,working smooth
+412,review-c9b8e48d-c3b2-431e-89b5-c014bd01f11c,Subhankar Tarai,5,Simply awesome,good quality
+413,review-9446c389-ffae-4e85-8120-918f935b83c7,Varun Kumar,5,Worth every penny,nice product
+414,review-d67be5d6-3ac7-40bf-98b8-5314c4b0cc41,Abhishek Varshney,5,Wonderful,good speed fast working
+415,review-b794c89d-b3c4-4f8d-8f12-dfeb1cf1c331,Flipkart Customer,1,Not recommended at all,sorry works 15 days working waste money
+416,review-ecb443f2-bebc-4cfc-8469-a3bb42e017bf,Akshay K Babu,5,Great product,superb product thankyou flipkart
+417,review-475c9b69-6817-4161-80f4-a7434fd38c31,r.ravi ecr,5,Just wow!,good
+418,review-a1945579-c6a4-4a3a-b09a-4fa368c003c2,Flipkart Customer,5,Perfect product!,good
+419,review-aed7c9e1-251e-4c65-8e95-8e50f95f1652,Mashuk Ali,5,Highly recommended,nice
+420,review-1bb4e18a-020f-4d6d-a4f5-d28b0cf9bbf6,Aravindh Aravindh,5,Perfect product!,good one
+421,review-d692e3c6-22a1-480f-b4ee-620731d316ea,Flipkart Customer,4,Nice product,value money
+422,review-eb4125a5-42cf-4f0b-bf7f-01dc9867aa31,Praveen kumar,1,Horrible,bad
+423,review-43020b7a-1544-42c3-9569-f8f7f6958b13,Sameer Ailawadi,5,Simply awesome,nice product
+424,review-5e38e5f2-8a45-4538-aa76-384ea33488d1,deepak chauhan,1,Unsatisfactory,heating problem
+425,review-1d8e34fc-6ab9-4876-9b12-178f09932594,Sudhanshu Gaur,4,Value-for-money,value money
+426,review-183ee473-6d6c-4fb7-a8e8-58dcf77b26f3,Dinesh Dabhi,5,Mind-blowing purchase,good
+427,review-5193aa5b-6df1-4f07-84ed-410c27670f0e,devendra bhandari,5,Must buy!,good
+428,review-66feecce-5b19-427a-80d2-34b8f6fcb9c4,Flipkart Customer,2,Slightly disappointed,good
+429,review-2e66c270-9df6-43d0-b755-3fd64a9f9416,Saneesh V.S,5,Best in the market!,good
+430,review-92ecd08a-8208-4d49-b57c-222fe9344a00,Flipkart Customer,5,Terrific,best
+431,review-e79ef0b6-2a59-449d-a37e-c9bdc9b1169d,Krishan gopal sharma,5,Classy product,great wr speed durable
+432,review-e4a49595-1741-492d-9da6-5b91718c641f,Rishabh Patel,1,Hated it!,speed lesa 10 mbps usb 3 port well gradually decreased 12 mbps may problem product returned
+433,review-ef1617d0-2d05-4cdb-9632-491f6cf705a7,Anup Gupta,5,Perfect product!,nice
+434,review-b03b0c92-008b-4fa5-b473-d42741404b22,Sreeharsha Patil,5,Perfect product!,usb 31 speed backward compatible 3 2 recommend product seller
+435,review-fcc58848-cc35-485e-8a95-2a2a770e686a,Munagala Polaiah,3,Decent product,good
+436,review-e389ddea-58f8-439a-925e-dfccb6cfcb9d,Flipkart Customer,4,Wonderful,valuable product
+437,review-b425db47-00af-4323-805d-ecea82b2e043,Ranjit Kumar,4,Nice product,goodbut get heated
+438,review-962c3828-45b8-48dd-8d88-d89c253d8b7d,shashank dhoundiyal,4,Wonderful,pendrive good data transfer rate good problem head pendrive kind loose became loose dont know
+439,review-33b3eccc-a82c-458b-961c-6ed9d885b216,BACHCHU MONDAL,5,Simply awesome,amazing
+440,review-43184e7a-2db1-43d1-87c8-a63f1ca6f2f1,Anand Shiragavi,5,Great product,nice product data move copy fast
+441,review-09089ec1-8228-41b7-8d2a-5a4680ed8598,Flipkart Customer,3,Good,nice product
+442,review-472b8d96-74ce-43bb-a480-6cf720165c99,Kunal NEEL Sarkar,4,Good quality product,good one
+443,review-9a607b49-ad85-4f88-8ec8-e7069f3b5da0,Flipkart Customer,5,Mind-blowing purchase,good one
+444,review-fe168ea5-d3d3-494b-9a3a-0cb6bb1173a2,Yaser Raza Sayed,5,Fabulous!,nice pendrive
+445,review-1a2f73e4-4add-465a-93c8-7b4408977914,Raghavendra Hegde,5,Great product,superior quality build got 333 18 super coins 351 rupees big billion days must buy price range
+446,review-16721910-5e21-4cc8-8218-f6da5491d566,rooben varghese,4,Nice product,nice
+447,review-00447ae0-f4a5-4929-8d78-fe641ff42ece,Varun kumar,5,Terrific,good
+448,review-d55801f7-9bee-4275-91c2-df8622506ba7,Flipkart Customer,5,Perfect product!,nice product
+449,review-d388ca39-0bcb-4fa7-a32e-4e891bdf4808,Mohammed Sajjad,5,Awesome,nice product
+450,review-657f1402-ec8e-4d3a-a089-d51a1f55c0bb,vijay rajput,4,Nice product,nice
+451,review-7365a57d-be8a-411e-9b2c-d6c75256d893,Mohit Jangale,5,Just wow!,lit u buy good
+452,review-bec84f4c-00ed-43eb-9a49-e43523fd47cc,Apurba Sanfui,5,Terrific,good
+453,review-855368bb-47f0-40a0-aebd-1f0f2ca31b11,Shashank Naik,4,Delightful,nice
+454,review-ff056ef5-ee23-4ce2-8629-3a0983635abf,Flipkart Customer,4,Good quality product,nice working well thns flipkard
+455,review-7ad6a016-ad54-4777-9b13-081b4e2dfec2,Pragyadeep Singh,5,Must buy!,awesome product
+456,review-e3d0768b-39b9-4b9f-8cb6-3be092504525,Bakru Deen,5,Terrific,best pendrive price range30 speed read 120mb write 20mb20 speed read 40mb write 13mb
+457,review-cc07b036-b424-4994-843d-0bc95ae63ccd,Midhun Rg,5,Wonderful,good
+458,review-0726d02d-6816-402f-98e0-25842a22978d,Flipkart Customer,5,Simply awesome,nice
+459,review-1d1ab06c-0697-4bf3-9457-8e75177f8dcc,Sunil Kumar G,5,Super!,good product
+460,review-f7f9ca8e-e553-4d18-85a2-f1116902e300,Abdul Aslam Shaikh,5,Worth every penny,good working
+461,review-f05b21d1-36c2-437d-ac4b-f0d95c9389c1,Subham Pal,5,Great product,awsome
+462,review-fb9e6569-34a4-4953-97a4-ed3af21aa0c8,SYKAM RAMBABU,5,Mind-blowing purchase,good
+463,review-61ea8a80-124d-427c-8232-9228ac3ba9df,Tong Debbarma,5,Best in the market!,awesome
+464,review-74310d93-5323-4514-a253-317657b6aa36,Anand Dandu,5,Terrific,fantastic productit better sandisk support usb 3130alsothank u flipkart
+465,review-63823e38-4f7a-436d-8c0b-ac41a7508ecb,Flipkart Customer,5,Excellent,suppercolll ad fantastic size object
+466,review-03d5975f-c65d-4344-8df9-cc974fe20721,Flipkart Customer,4,Really Nice,product good
+467,review-16546f28-a480-4e3b-855d-3e17205874de,Govind Kumar,4,Pretty good,looking pretty speed also good
+468,review-9274dcc5-9f34-47b9-8fd5-5cf97e332808,Vimal Raj,5,Brilliant,superb look fast data transfering
+469,review-9c02e468-f04b-4385-be12-f02a6a47d763,Manohar M S,5,Terrific purchase,good product good price always
+470,review-da960f7a-0557-4df2-b20f-2573d52d7a4b,Ciril Babu,5,Simply awesome,nice better price
+471,review-43f81bda-cdf4-466b-98d5-224938d64641,Syam Sasidharan,5,Terrific,good
+472,review-488e077b-a0de-48f0-b858-ae08aea9daa8,AJAY KUMAR KANKIPATI,5,Excellent,value money kingston favorite brand pendrive
+473,review-d58f34ac-d04b-47ae-aa09-d609e14041a9,Rishabh Sharma,3,Decent product,nice pendrive speed slow way love
+474,review-f16e9316-11bd-49e3-9293-6aa4fdb4869b,Naveen kuamr,5,Terrific,great deal alll
+475,review-57c1856f-5419-4619-a315-b426e2aa9a03,Flipkart Customer,5,Highly recommended,good
+476,review-83ebb22b-7d53-45dd-9284-f12c05dc8d45,Flipkart Customer,2,Expected a better product,doesnt 32 gb capacity 28 gb capacity
+477,review-21614381-0207-4355-98d0-ed6e7a9a205b,Sanjay Dhali,5,Perfect product!,good
+478,review-65f29ac3-896f-4b81-9efa-55d64a43af6e,LALBANDH VALI,5,Brilliant,grate product
+479,review-729445c4-c343-4f3e-a69c-19d88e346c1b,Nile Deb,5,Highly recommended,awesome
+480,review-43dcfa51-c801-467f-bc2e-ae0dfbf1ac4b,Suhel Khan,5,Just wow!,nice
+481,review-bf6c67fb-0c5e-4407-b005-5bc7da2acd04,Prashant Singh,5,Mind-blowing purchase,value money cheapest 30 pendrive
+482,review-2d3c13f3-60cb-4f52-851d-1e49c136f1d4,Rahul Ghuge,5,Just wow!,nice pd im happy
+483,review-03512b9c-32c1-42cb-aed4-30ab9fca7674,Shiwam Vishwakarma,5,Fabulous!,working good speed also
+484,review-e8c19b51-43f3-455b-a497-b54f90cec124,Himanshu Singh,4,Really Nice,good faster pd best price
+485,review-285d1e1e-3801-4ce3-8622-57bc4d7e6fde,Hemant Gangwar,5,Awesome,ultimate product extraordinary speed valueformoney
+486,review-7069ddd8-b17e-4d72-a09d-b0d79481176b,Manish Malav,5,Simply awesome,nice one
+487,review-6cef153b-b54f-4b8e-ad5b-64b786b5f2e8,Abubakar siddiq,5,Super!,amazing worth buy
+488,review-82cd331d-0487-422f-9725-8e2a0ac4593d,Rahul Yadav,4,Nice product,good product
+489,review-e146e14f-455f-40a2-8bed-ad7d5968a4d2,Tushar Shaikh,5,Classy product,cool
+490,review-53b98d13-e69d-4049-a341-98fbaff2d2fd,Flipkart Customer,5,Highly recommended,superb
+491,review-58a0b155-7942-43fd-81f2-82c1e047952d,Mahadeb Bera,5,Wonderful,nice
+492,review-36abb59b-f197-49b1-bab7-4533d769dbc7,Flipkart Customer,5,Super!,nice exllent
+493,review-4509b154-4e15-493a-bb95-3a6c8ca7d259,Ashwin Achu,3,Does the job,28gb storage space
+494,review-3f1403e9-8551-47dd-838e-eed125d95d70,Shishir Sharma,5,Great product,nice product value money
+495,review-1389c4bf-2400-4f57-8d7b-738c101dbab4,Kanha Jena,5,Awesome,osm productmind blowingmemory capacity 289gbwork also super
+496,review-9ede7308-0740-457a-9a52-686287d627b5,Tanmay Mukherjee,5,Awesome,quick delivery good behaviour
+497,review-91ad272b-5a67-4c9e-9736-dd7eb23eeab1,LITAN CHAKRABORTY,5,Mind-blowing purchase,nice working perfect
+498,review-10a0b530-2533-407b-9f97-0653b34577b3,G.jaiganesh Gurusamy,4,Wonderful,super
+499,review-6f3c2428-99e2-4cbd-9f13-aa7b2cd3d81d,Siddharth Singh,5,Super!,nice one
+500,review-21473568-0fe5-47bd-ad48-82994d3c8857,Harpreet Kaur,3,Good,speed average
+501,review-067fbe64-b3c3-4f2e-b3cc-06686b76aafa,amit yadu,3,Good,bought productpandrive nice given 32 gb 28 gb
+502,review-e8d6b7ba-713d-4d27-a402-60c955b7a2d7,Flipkart Customer,5,Excellent,good pen drive
+503,review-a5dd4a2e-6d3a-42d0-9343-46aca7afdb3f,gopal sahu,5,Simply awesome,best pendrive price 316
+504,review-ee97815b-40b8-4c13-9608-8b8c850fc1ef,Flipkart Customer,5,Excellent,nice product
+505,review-a86da83f-ec58-4f5c-aa22-986ee7ea50b5,Uttam Kudale,5,Classy product,excellent productthanks fc
+506,review-2313cb6f-21ba-4f30-a93e-c791bfdb17db,VAMAN NAYAK U,5,Terrific purchase,good expected
+507,review-d1caf8d1-7dde-4124-9290-6079bcd0b8a9,venkatesh yadav,5,Terrific purchase,nice pendrive
+508,review-5b33d287-9611-42a7-81fd-66b751f93fb4,Tamal Ghosh,5,Brilliant,nice
+509,review-ba9bf68a-9dab-461d-aceb-c2fb4fd1e92b,srikanth reddy Kakuru,4,Nice product,received good condition file transfer speed 10mbps lets see works
+510,review-5c83fe8f-0427-448a-9336-918122fda9fd,kapil dev,5,Excellent,satisfied product
+511,review-07b85307-c0b9-4dac-8b94-0892ceb7c743,Flipkart Customer,5,Excellent,fantatic
+512,review-d614b5cc-06c0-40a4-96e8-25389d826b4c,Sandip Sonune,5,Great product,nice pendrive like
+513,review-c5960c80-1191-4850-83db-e6bf6ae2e93a,Akhil Mohanan,5,Classy product,cooled product
+514,review-68389078-f0e3-48a7-88fa-e62c5e90d38a,Raj Verma,5,Perfect product!,good product
+515,review-4b7f449a-a1b5-42cc-8158-9c92bc54ebfb,Manish Gupta,3,Fair,good
+516,review-ed985360-2e13-4f64-83bb-287af5a6cc31,Dinesh Babu,4,Good choice,super like
+517,review-f11efe22-0ac1-4d5a-993e-d1c11d18299d,Sudhanshu Duhuna,4,Very Good,good one
+518,review-a7983927-6827-4178-9de6-3247706a772c,Ganesh Vatukiya,5,Worth every penny,no1 pendriv low price
+519,review-289241d7-d44f-456e-b98d-e79415b07973,Bishal Gupta,5,Terrific,good
+520,review-6abaa1da-cc79-4c52-b31e-3bd170d7ad08,Nilesh kumar Verma,5,Fabulous!,good
+521,review-8d83947a-2095-4b80-809e-0db28cb5e8b6,Santanu Bhowmik,4,Worth the money,good pen drive price rangeno companies provide 30 pen drive thus price pointcopy write speed r goodbut wait final review
+522,review-24dc1cc8-7529-469f-aa4c-29644801a824,Sebastian Thomas,5,Just wow!,nice one
+523,review-04c30406-20eb-482f-a758-70352e55815e,CHIRANJIT BAIRAGI,1,Absolute rubbish!,slow copy power
+524,review-2f3ba733-65bc-40ab-bd65-3d50f4b37c9f,Naga Sai Durga Manohar Gundu,5,Fabulous!,best budget
+525,review-7334fb23-ac61-448d-b5e1-a973bb88f284,sowmya gsl,4,Pretty good,good
+526,review-e8905cab-6d43-4fb4-81ca-9e390811b436,Rakesh Vaghani,5,Wonderful,good
+527,review-3b0c897d-1985-4e70-a893-c875e5e6b666,Sahil Saini,5,Brilliant,bought rs 350 value money
+528,review-5e3cd032-984f-43b9-a1fe-6da320093714,Viralbhai Vaghasiya,5,Wonderful,better
+529,review-c9dca1a6-9869-4bcb-9603-bebf98f4ff6b,Agniva Chatterjee,5,Wonderful,good product low price
+530,review-62e09a64-4036-4e8b-8aa0-b647d39f95a4,Joydeep Mahato,5,Terrific purchase,gorgeous looking outstanding performance
+531,review-5d1187db-ba47-41a6-96c0-399128309b64,Jhilam Das,5,Best in the market!,product good time delivery executive behaviour nice
+532,review-bc71541f-e2e2-409d-b8ce-03fe83555f4e,Jatin Devani,5,Wonderful,good product
+533,review-4a1168e9-1df6-4d1b-bb26-0849ee819a52,Nageshkumar MS,4,Really Nice,something new
+534,review-b7ec29e5-8d42-4d33-ab20-c5baee3518c8,Pankaj Singh,5,Highly recommended,product nice working fine
+535,review-5a329962-966f-4eb8-94fe-c238798af361,Flipkart Sathish,3,Good,ok slowly download pendrive
+536,review-d5feb7f6-ff5b-4a70-a8bd-484ac4139b59,Flipkart Customer,5,Super!,ok iam satisfied
+537,review-9746b76e-4505-4275-93ad-39acc0e936d1,Ravi Kumar Maurya,1,Terrible product,bad badits speed slowit give less 8 mbpsi angry thisdont buy itit work less 20
+538,review-0b6aa6b1-4a5f-4dba-a72f-9788d36a150c,Sam Sivam,4,Delightful,good product rs351
+539,review-abb0c57d-2009-448b-beaa-ec420aa87f18,Faim Shaikh,4,Wonderful,good product price
+540,review-5702e5b8-6185-43e1-b8bb-91a1e8a7290b,Dadul Gogoi,5,Terrific,value money
+541,review-f1a1f6a4-fdf5-4602-a1c7-90421dc45ddc,Manav Pathak,4,Good choice,osum
+542,review-de35de25-7031-426c-a717-946e485efcda,Geetha K s,1,Don't waste your money,product worstwe cannot save photos videos support computes laptop
+543,review-73053805-59d1-4198-b49e-8f3dcda9309c,Flipkart Customer,4,Very Good,best deal 30usb 32gb 350rs go
+544,review-e8fbecbc-fa3f-4555-86f0-7c0eda450bb6,Royal Dcunha,5,Excellent,definitely buy
+545,review-1bca0f04-160b-4a37-bec3-0be25f6c533f,Ambati rohit,5,Worth every penny,nice
+546,review-efaf5f64-7a48-4632-8629-4ab62391e52d,Flipkart Customer,4,Very Good,nice good
+547,review-52f20f44-57a0-4743-9a27-70656e96abf4,Chandranath Nandi,5,Best in the market!,nice
+548,review-c2c733a3-5493-448d-9678-7884365a7b2b,jithu Naidu,5,Wonderful,always best best keep continue good service thankyou
+549,review-69e917c4-62be-4729-8e56-6d2f5e67d8be,Sumit Kumar,3,Just okay,nice product
+550,review-2c691892-40ea-4ca7-a500-144f67d1251d,Premdas Rathod,5,Great product,good product
+551,review-67c13e7f-3490-42ee-9f91-93f0126f395c,Ravindra reddy,4,Delightful,good warking
+552,review-20d47e9a-084f-46b6-9642-a75929dde6ea,Nasimuddin Mallick,5,Worth every penny,awesome
+553,review-494d9631-101f-4078-afc4-756f2d651d36,Flipkart Customer,4,Pretty good,nice stylish look best choice
+554,review-aa51525f-9e85-4dcb-b185-59d90dec4786,KATTAM MAHESH,5,Best in the market!,excellent
+555,review-89cfc9d6-87f3-4c23-b26d-48e3bbb0a8fb,Guhan Guhan,5,Terrific purchase,super
+556,review-09cabc18-be9d-4730-a8d3-359f9cf0f901,Manish Prabhakar,3,Decent product,value money
+557,review-8dd07d3e-d9f6-4d6f-94b9-8127b142890d,Muthukumar,4,Value-for-money,good
+558,review-293e1e1e-4b02-49a5-80c5-75e59468c7b5,Pintu Debnath,3,Good,bad good
+559,review-df7bcf68-27ab-4a9c-9b54-719115452a72,ANKUR SCHROFF,1,Terrible product,stopped working within month
+560,review-7ae1ab90-a014-4dea-9181-ddc1b964b978,Muthuraman R,5,Fabulous!,good product
+561,review-6ee01b1a-0342-4400-a4de-c08eb4f4ca6f,Ompravesh,1,Waste of money!,pen drive bad pen drive working support laptop tv port
+562,review-e0f0bf81-ad76-416f-a7eb-0f84a7b94246,raphael rittin,2,Slightly disappointed,working dvd playermobile music systemonly working laptop
+563,review-0f21b719-d5f8-4baa-9eb9-945108b9000c,madhanvarmman c,4,Very Good,super speed
+564,review-280fc1cd-4bcb-4657-886a-bc09a2891f46,Rajeev,2,Moderate,speed 24 mb
+565,review-9e85785b-529a-46be-bc2e-e02bee3173b1,Madan Lal Sharma,4,Good choice,good product
+566,review-3d66781a-0e97-40cb-8050-70db4e6dbd0b,Flipkart Customer,4,Value-for-money,good
+567,review-b43f02e8-d8e9-4a44-9e71-a80c477c2cce,Chandra Kant Bhushan,5,Must buy!,fine 28 gb
+568,review-a4772a14-af7b-434a-9b32-42c8ae8b3f6b,Ayan Ghosal,4,Nice product,good product
+569,review-88c6ef04-6173-4f2e-a604-e06a8df423a1,Flipkart Customer,5,Mind-blowing purchase,working fastlow price high memory
+570,review-a33f4fac-bf56-4518-a16b-707a4db9764d,ujjwal dutta,5,Classy product,good product
+571,review-d530702b-0f32-4116-9c57-f6232ca16a15,Ramesh Babu Chitra,4,Good choice,good product working well
+572,review-c8dfeebd-bbb6-4639-80d8-18aa8e357bfc,Tiger Dhana,4,Delightful,nice product
+573,review-ed95e594-b5f2-4a13-8fd2-402c32816407,Dhiraj Sharma,5,Classy product,high speed pd stylish look
+574,review-41ea860b-55c6-48aa-bb34-a21da1fbda71,Kanhaiya Mate,5,Brilliant,good product
+575,review-63a91fb0-1c98-4298-9268-13c88ae9fa7f,Mr AJAY KUMAR,5,Great product,good product
+576,review-2cfe9826-7213-4a6d-8d0d-fef344fbfcbb,JAMSER ALI,4,Worth the money,good product
+577,review-2be50778-d800-4ef3-b960-ec2c7d59a568,Nandhakumar G,5,Fabulous!,nice
+578,review-43dac88e-d7d8-46bf-9bbf-54409a5921f0,Rama Krishna,4,Pretty good,awesome product low cost high quality
+579,review-f2833e5c-5071-4ab4-8b1b-bcf605089e36,Flipkart Customer,5,Wonderful,good
+580,review-0f900432-5a8f-4538-b5ba-912910f620a1,Flipkart Customer,5,Excellent,good
+581,review-c1491861-7bcb-4bdc-8f9e-287e94c3e4fa,Flipkart Customer,5,Wonderful,good product
+582,review-ca67cdf2-f662-47b5-9837-b4fd11ecff1d,Abhi,4,Delightful,far goodhave spent one month itno problem
+583,review-8c4d19f6-2c7d-4d8c-bd1a-266776809931,Sunil kumar pati,5,Terrific purchase,good product
+584,review-61d2134f-f363-461f-8728-3b724a119077,Kiran George,5,Brilliant,good product
+585,review-1a90cfcc-c31f-4830-9f04-0c2c5661b42c,Nikhil badhiye,5,Awesome,superb
+586,review-d32cf6c7-c8ee-4e12-85e9-b889ba369690,Timothy J,5,Super!,speeds 12 heating problem mild
+587,review-756ebfc9-335f-42b4-9490-30c7d59979e3,Flipkart Customer,1,Horrible,badafter one month got damaged
+588,review-50701483-10a9-493b-b398-3480789cbca7,suRaj KanneGanti,5,Simply awesome,nice speed copying
+589,review-6882ac16-647b-45cb-b7e9-d8365aa9f7bc,Solomon Paulraj,5,Wonderful,using kingston memory past 12 years bought based kingston never fails good pen drive
+590,review-fb01874d-f716-4a88-bdb4-756b9efd3092,Flipkart Customer,5,Highly recommended,ok good
+591,review-da78dac9-19d4-49aa-8460-1ab6d4976d9f,Flipkart Customer,5,Just wow!,got product 351 rs come second purchase raised price 500 anyway good quality product
+592,review-cfdd45a0-1935-48e7-99dd-c40dfb8239a9,JERIN D R,5,Highly recommended,niceworth purchase30good speed
+593,review-b9ad85e2-7802-49c8-b7ce-cf6459c86881,Gobi Nath,3,Good,fast 6mbps high speed
+594,review-802e567d-3ce7-47ba-bde1-bc8dde3da7cd,Ansari Anas,5,Wonderful,pendrive amazing price point view got 351 onlybuild quality nice speed nice 810 mbps usb 20 13 15 mbps usb 31overall rating 910
+595,review-afd60595-35ee-4b08-87c9-18b719434060,Bipan Kumar Das,5,Just wow!,niceits fast
+596,review-4b568d22-6f68-4818-b4bc-a91e9910dd04,Vishal Bhavsar,5,Classy product,gives 35 starbcause rw speed given per specification
+597,review-a2d9ff92-8adb-4888-8145-447c08edad46,Flipkart Customer,5,Terrific,awesome product good speed well build quality highly recommended
+598,review-59ab3e9e-5826-48d5-a83e-6c17511e41ec,Javeed Patel,5,Great product,nicebut 32 gbits 28gb
+599,review-7a6f2403-78ce-4883-b2bb-ba886f9031af,Flipkart Customer,4,Good choice,good pendrivestylist lookscheap pricebut slow tranferring datasometimes hit problembut overall good product low range
+600,review-aa1aa6e7-4c6e-4baa-8ead-a3ffda5b64d6,Flipkart Customer,3,Good,heating problem
+601,review-2cc272ce-534b-4e2c-9d96-84b79e9ad6bd,Sandeep Mali,5,Classy product,amazing product
+602,review-66dac448-be63-4ab4-b9d5-b02e9a502b2f,bujji babu,5,Awesome,nice best price
+603,review-5ee04559-eec3-4759-9623-0448464ba81c,Aji Prakash,3,Just okay,ok heating
+604,review-07c4e36a-72d4-4427-a283-7503e50c92b5,Rajesh Kumar,5,Just wow!,good quality looks nice works well
+605,review-31df202e-8039-4509-9645-10f96a057da2,Flipkart Customer,3,Does the job,heating problem slowly
+606,review-32777dc4-f5fd-4054-a2d5-958f6aa41bee,Flipkart Customer,5,Excellent,good
+607,review-01b3c92f-710e-4c85-ac26-f3e1742f4532,Lavanya Balasubramanian,5,Simply awesome,good
+608,review-fb5e2cc3-97f5-4685-96a8-43ec24269173,Vajjiparthi Nagarjuna,4,Nice product,good
+609,review-8e9cf203-f518-4674-9c02-7e5bf6ca1020,Amarjyoti Nandy,5,Simply awesome,awesome product
+610,review-3360b901-c56b-473e-9bda-b932e9a3391b,Manish Parashar,4,Delightful,premium build size bit bigger compared pendrives days speed fast
+611,review-acdc27cd-fc5f-4074-9500-283acbbbce69,Pushpendra Singh,5,Terrific,fantastic
+612,review-b743e485-8292-426f-bfe4-6814c14bc6e9,Badsha Sk,1,Utterly Disappointed,sprint pendrive
+613,review-f478bb59-e965-4321-9ff0-688a772c5343,Vijay Bisht,5,Terrific,good
+614,review-8b577ba5-540a-4f96-8731-77b437ebae80,Flipkart Customer,5,Mind-blowing purchase,good pen drive
+615,review-859fc03d-4b74-4984-be4f-90a1b417c716,Aditya rana,5,Brilliant,beat
+616,review-f4972a84-bcb6-4e6f-abd0-a4e3ce8090ba,mohd asif,4,Value-for-money,good looking good working
+617,review-ce16f7c4-7d8a-41d2-b1dc-f5e74144dffe,Himalaya,5,Awesome,good build quality im getting around 12mbps speed 20 port 30 go higher go without hesitation
+618,review-816a3f22-3eea-4c91-bb19-075a069e923b,Yogesh Pandey,2,Could be way better,performance low andheats early
+619,review-fe228561-ece8-4749-ae68-1b0c19967c25,Flipkart Customer,5,Brilliant,good product
+620,review-7071e1df-3521-4905-8770-8dca647a1f5a,Suresh E,5,Terrific,super product
+621,review-c78d56c2-9c99-4578-8487-a3250c4d0bd9,Madhav Kumar,4,Value-for-money,thanks
+622,review-2c8150dd-3506-4039-b019-0c8f61d098ce,Abhishek Agrawal,2,Moderate,says usb 3 speed low
+623,review-39f16d4b-7387-497e-abd5-0cd276d1e9a6,Giridjar Kumar,5,Wonderful,good
+624,review-e8fc2546-09c6-4347-93d3-7b9af67cef48,Mukesh Kumar,5,Worth every penny,superb quality
+625,review-1dd8d9f8-b345-4b84-a700-1e5766083410,Sk faruk,4,Worth the money,good
+626,review-d43cb432-ee30-4016-90f4-40f3f971b72d,Neeraj kumar Rajan,5,Wonderful,good
+627,review-4c2df781-6c46-4239-94d8-106e43f4f4b4,Moulavalli,5,Super!,good product worthy value
+628,review-e74bf5fc-011d-4365-b240-7b6d46102e2c,Het Shah,3,Fair,speeds per usb 31
+629,review-95209057-6a9d-4a27-b556-f57b124e842e,Flipkart Customer,5,Perfect product!,good
+630,review-c38e4dc4-0121-4b4b-88c4-d54b1281698b,Pallab Nath,4,Pretty good,gives 29gb space
+631,review-00fb1e90-5d52-437d-9f7a-074baf71572d,Kranthi Ch,5,Wonderful,good working
+632,review-9a70f17f-2b4e-4a86-97a2-7c830b63aee2,Flipkart Customer,4,Delightful,ggod pendrive better sandisk
+633,review-0156c675-095e-47ca-b39a-e16d6f8cdc50,D.RAMESH BABU,5,Wonderful,good
+634,review-21c3a047-e569-4536-9af2-3602a9cbaac3,Flipkart Customer,4,Wonderful,fast delivery stores 288gbnot 32 gb
+635,review-7a77b3d3-242c-4615-96a7-4a5df3ae9481,Sumit Khandelwal,5,Great product,fastand good
+636,review-9febda23-63cb-4a29-a784-ef4ccf29826f,Flipkart Customer,3,Decent product,good
+637,review-76fb9c55-76df-4dab-b4b8-ed60df6be372,Arivarasan Irulappan,5,Perfect product!,pendrive good read write speeds
+638,review-4f7b7cf1-e893-4abd-87f6-4af95dce9710,Prakash.V,4,Worth the money,supper nice product
+639,review-97a45ae5-39b6-497f-a85a-fbd14f620d16,SUMANTA ROY,5,Wonderful,super pendrive outstanding
+640,review-9b610562-4e87-4603-b99c-c6d71fe9668d,sri ram,5,Great product,awesome
+641,review-bf3d3221-6a8c-4cfa-9331-5e7946a9345a,Sameer Ahmad,5,Terrific purchase,working fast delivered also fast thank flipkart
+642,review-f8c13368-3f7f-4a71-9909-d6b3eb2c7385,Anilkumar C,5,Must buy!,good packing time delivery
+643,review-1253cb5a-5bf8-4baa-8977-da1a42c2d173,Sourav Chakraborty,5,Brilliant,good read write speed looks wise pretty good got great deal rs 350 usb 31 added benefit
+644,review-2abd41cf-6513-47da-bb51-6e681c5093f9,Rahul Santra,5,Wonderful,nice
+645,review-d6b99628-aa0f-407d-80a9-c7a2c27b7659,Alankar Shete,4,Value-for-money,nice delivery nice product
+646,review-0698c753-8e29-48d4-ae49-a71f5b1568d6,Sadananda Behera,5,Mind-blowing purchase,data transfer speed good
+647,review-d963e95e-476e-4a13-9fee-a7a32936027b,Yasar Reza Rahaman,4,Really Nice,good
+648,review-51b91ba2-1d0e-4bf3-8009-1bbd718be046,Flipkart Customer,3,Fair,good
+649,review-04437574-7640-4585-a9c2-2b6bc77923b1,satish kumar,5,Excellent,nice product nice price
+650,review-7b7932bf-ffee-401d-98ef-d6815c253806,Ganesh Anche,5,Super!,good quality time delivery
+651,review-261ae12a-b763-4dda-a723-77f426530e91,Prasanjeet Khandare,5,Super!,nice
+652,review-66f38239-ccb1-4002-8286-2484bb1f14b2,Imran Hussain,5,Perfect product!,nice
+653,review-bbb83274-3e80-4bc1-a981-0e59977bc8f7,Suchit Patel,4,Worth the money,actually size 28gb although build quality good 31 30
+654,review-44926b6d-4e6f-4b4f-81c6-676d68d8a5c0,Shanaya Yadav,5,Highly recommended,best price range like
+655,review-13889bc7-9863-4346-9361-35e58c37abee,Flipkart Customer,1,Hated it!,slow worst pendrive sharing speed 1mbps
+656,review-f825c7f2-0b34-4df0-9bd0-88546c3017fe,suraj kant,5,Wonderful,good product
+657,review-19cd608c-3988-4486-9ce7-799ac319dded,Vimalraj Krishnan,3,Just okay,slow
+658,review-48719ddf-5db5-4ce8-b5cb-fe983dde83fe,tangrim d momin,5,Perfect product!,thanks
+659,review-4ff15eda-25d1-46b0-8707-41e0746ba0dc,Umesh Raj,4,Nice product,good
+660,review-7cc9a2b7-d561-4a5b-b5fb-43ea53dc8eac,Ravi kumar,1,Very poor,worst experience ever
+661,review-53b9ca0d-c9c7-4e45-b254-e21865611a66,nikson macwan,5,Must buy!,nice product
+662,review-1b2dc098-b9fa-42e9-9466-fadfbabdcf75,shivdas sonwane,5,Just wow!,nice pen drive
+663,review-6f3de80c-f6c4-4a9a-94d5-405ece4cf05f,Flipkart Customer,5,Fabulous!,good speed
+664,review-45253872-aa58-4afa-a693-1cdc1d455a86,Krunal Jariwala,4,Delightful,faster
+665,review-589b5382-7006-4939-b397-63aa8bcc01f9,karthik sha,5,Classy product,good
+666,review-91b2e5c1-bb8a-4e18-88cc-997d858360cd,Bapi Das,5,Just wow!,good condition
+667,review-8c2100d5-c57a-4d4b-976d-7e1f8f1751e5,Sonkamble Vijayanand,4,Good quality product,nice
+668,review-c0c9ef36-4bbc-4546-b377-84dc68369713,Sajal Maity,1,Horrible,supported mobile
+669,review-281dd3ac-8399-42de-b6f8-5a27eca2bca2,Fasna Haseeb,5,Best in the market!,good quality color also awesomeon time deliverynice product far incredible price pointi got 299
+670,review-091e8ade-5e48-434d-85a6-96ad324dd4e4,Naveen Kumar,5,Awesome,excellent performance cool designread speed upto 35 mbpswrite speed 25 mbpsgot 350 rupees real mrp 700fast delivery two dayslike comment found helpful
+671,review-2bfd3835-402e-4254-84b6-2a22e2289583,Mohammed Uvaiz,5,Awesome,cool product problem heating storage 28gb good
+672,review-4b03eb67-38c7-41ef-8a7b-85757ae5a9dc,Saiju P J,5,Wonderful,good
+673,review-cbc1a02b-6055-4a5d-9b7a-be3bef00b0c6,Akshay R Krishnan,5,Just wow!,best segment
+674,review-70c99a0a-367f-4e18-8149-dbf263638e51,Abid Husayn,5,Simply awesome,owsm productt
+675,review-368acd77-8229-43cf-ac46-1228dff5a0f2,Veena Somesh,5,Excellent,nice
+676,review-f7c93b48-aa6a-415f-ba00-e52b1db66796,Kundan Sahu,5,Classy product,issue good product
+677,review-f87eee0e-f86d-407b-b814-56f0f7da846a,Durga Patel,4,Value-for-money,best quality fast 32 gb 28 gb readable
+678,review-4e8eee2b-5bc3-45fc-87ca-3bb27ec04f99,Aparna Santra,4,Really Nice,thank younice pen drive
+679,review-23ca54d7-f171-4b82-9a3a-3a012f4c1783,Arockia joseph prakash,4,Good choice,good quality
+680,review-b25e97db-0ab5-4ae6-9078-a82b90f0d2cc,Flipkart Customer,4,Nice product,god product
+681,review-18587a15-71b7-481b-944d-820211bd965f,kamal mondal,5,Must buy!,nice product
+682,review-c4714ff8-fe69-4aa1-b50d-8a2a86d61c0a,sudeep kumar b,4,Value-for-money,good product
+683,review-aadc9965-2784-43d4-9351-5c73c9894ed2,Avinash P,5,Terrific,good pendrive decent speed
+684,review-ef9ffad9-ab9a-46a1-b6dd-8a59c0bfb6e1,Anandhu Ravindran,5,Perfect product!,excellent
+685,review-d6bcc1e5-196d-4a84-95e8-4c1cd84331a6,Rajender,3,Nice,good product speed 30
+686,review-6de0879a-235c-4bbd-83dc-b308ab36c763,Flipkart Customer,5,Wonderful,good product
+687,review-13d1c60e-f27f-40dd-87b9-36bdc56fef3e,Flipkart Customer,5,Highly recommended,awesome product price range
+688,review-bc3e8833-d35a-4449-bb90-3762bdf826b5,sri ram,5,Classy product,good
+689,review-4f3d0664-63b7-4b9e-8c7c-85e12809f33d,Flipkart Customer,4,Worth the money,nice
+690,review-08ce3b26-121c-4519-8837-a67a730f14b2,yogender,3,Good,average product daily usage would sluggish
+691,review-076eff10-9dce-4aa1-b84e-b56ab1591e93,Harshit Yadav,5,Simply awesome,bought run ubuntu usb better expected speed good boot time fastone drawback gets heated sometimes
+692,review-71043a43-da85-4ee4-95a7-f8739463e419,Abhijith Gopan,1,Terrible product,device automatically diconnects trying copy file tried using pc laptop still problem occurs
+693,review-8b52532d-8d9b-4208-8743-6d193e37e0be,Kumar Saheb,4,Value-for-money,average
+694,review-b0a7ba53-3aea-45a1-b070-fae49e82c532,Priyotosh Biswas,3,Fair,good job done generate hit metal cover hot touch
+695,review-e0d62925-db65-4a81-9729-2229e3a81e47,Nirjhar Biswas,5,Fabulous!,osm good
+696,review-81da0c1e-2242-45c1-bb7b-65fd5b3f38cf,Rajdavinder Singh,4,Pretty good,product received way delivery date also good writing reading speeds used 30 31 usb ports wellalso rotatory cover tip ie part connected computer port pen drive metal actual cover covers chip plasticbut problem product disconnects seconds connected otg mode android mobile phone formatted fat32 also sandisk 8gb 20 peread
+697,review-0959ef44-ea0d-4886-9602-4ba00a1d96aa,aakash chauhan,3,Just okay,transferring speed bit slow
+698,review-4e1e3fd7-a6a6-422c-9351-f9139fca90d1,Flipkart Customer,5,Terrific purchase,good product prise
+699,review-8c87df98-8919-4748-ba83-e06cdccd9745,Narendra G,4,Worth the money,nice working fine
+700,review-d3175d4c-ceab-4d90-aaaf-f1c9011d923c,Shailendra Kumar,4,Very Good,value moneygreat deal heating issue
+701,review-1cd673c3-76f6-4e4c-8797-1f287ec755ae,RAMESH SEELA,5,Excellent,super good quality working well
+702,review-19cf8fcd-8624-45c7-a7d7-ece43ec3472b,BOKUL BERA,5,Perfect product!,good productsuper speed usb 30 90mbpsusb 20 14mbps
+703,review-86a403c6-36f2-4f54-8db2-db752e8e2c5a,Suman Sarmah,5,Best in the market!,awesome product
+704,review-6a7db414-6ed7-463b-8cf5-cebc7eb08e15,Yogendra Patel,3,Nice,nice product
+705,review-dbdf4f2f-9b2f-48eb-9a0f-c0ff03714b63,Flipkart Customer,5,Best in the market!,nice look product nice
+706,review-0bbb73cd-9692-4122-b09f-588dc309b478,Flipkart Customer,5,Brilliant,good price
+707,review-841fe1db-f8ad-4adf-b730-019045796342,SATISH KUMAR,4,Really Nice,good product good looking
+708,review-b88b13d5-1a0d-4263-8f79-f78b617df2ed,Flipkart Customer,4,Delightful,good
+709,review-b2caeac8-8680-485d-8df7-6a7145a36333,Ganesh M,4,Worth the money,good
+710,review-55b68b1f-7803-47a9-aaba-b514e92a4478,kaushal Prajapati,5,Terrific purchase,nice product super work 30 usb support easy
+711,review-2ecc6ee7-9a91-41d2-a60b-5a4c449bf7d5,Abhishek Reddy,5,Terrific,value money osm prodect
+712,review-2ed70d19-787a-4c07-bd2d-7d351fa20cb8,prosun,5,Just wow!,good product performance also goof
+713,review-43422d7a-a374-49d6-8e2a-9deef447a631,Shashi kanta Panigrahi,5,Fabulous!,good product
+714,review-1718fa7a-4a10-46c4-9281-d2edf3c94136,Sourav Sikdar,3,Nice,good speed faces problems fitting
+715,review-c0a3c7cb-ae55-425a-b9cd-aaf19be20f6a,Flipkart Customer,5,Classy product,excellent pendrive low price fast delivery
+716,review-e3f99c40-4f75-4002-9c47-a2a2c248fe61,ABHISHEK Raj,4,Delightful,bad pice
+717,review-7906bf9d-8971-4dab-9dec-124000c27202,RAJENDRA CHOUDHARY,4,Good quality product,good excellent speed slow
+718,review-853af656-5943-496c-88ca-459f6d10a862,vikas sharma,5,Perfect product!,nice good
+719,review-98399a1b-53ed-4ed3-91e7-a260d50cc16b,Praveen sharma,3,Good,speed slow overall good price
+720,review-81b6219c-a041-4a19-840c-7ab5307b6bf3,ABIN. S.B,5,Must buy!,awsome product flipkart
+721,review-f2d7e14f-63b7-4fc3-9896-fc4787a92159,Swaran kaur,5,Mind-blowing purchase,good pendrive nic built quality design storage bit low 288 gp available
+722,review-05057a8e-f1e6-4552-b27b-2de9f706007c,Jomon Kattakayam,5,Simply awesome,nice drive consistence performance heating issue sturdy usb 30 good buy
+723,review-8fad3a04-a377-42ec-8825-8ec07a395d6f,RAFI MOHAMMAD,3,Just okay,super product 2 days delivery
+724,review-21207e0f-25d7-4e07-b183-500d0726f5f7,Gautham Bg,5,Great product,nice
+725,review-f7fc269a-4925-4811-8e39-511df7bacd9f,Flipkart Customer,4,Wonderful,lik
+726,review-248e9ea3-f0f3-403b-8855-0365f84fa1cc,Jayanta Kumar Maity,5,Best in the market!,writing review 32 gb versionstorage capacity 288 gb pretty normaldesign 55black plastic body steel metal lid makes look gooda hole lid ringthe lid removed easily like look simplespeed 45when connected usb 20 portwrite speed 8 mbps read speed 20 mbpswhen connected usb 30 portwrite speed 915 mbps read speed 80 mbpsand laptop didnt 31 port couldnt test speedoverall performance 455read
+727,review-7f729772-bda1-425e-9e9f-191efe0a4d15,Flipkart Customer,5,Fabulous!,premium product
+728,review-34ec16de-be68-45f7-b0db-325e245ffdeb,Subroto Halder,4,Pretty good,good transfer speed slow compare 30 pendrive
+729,review-f9e160ba-54a1-4d54-bbc3-9b8ef3549e50,Bhaskar Punumajji,4,Delightful,awesome
+730,review-f1967363-edd9-4533-9e98-c491677ea02a,muthuraman dayanithi,5,Excellent,qualitystyleperfect excellent
+731,review-4dedf914-618a-4879-8906-c0bcfd21af45,Suman Pal,5,Awesome,good
+732,review-f95b0832-3626-49f5-8c1f-261302325314,Manab Tokdar,5,Great product,good quality storage small price
+733,review-409c7938-39fc-4800-b801-d4ae35f49950,Flipkart Customer,3,Fair,jast ok
+734,review-86ef98dd-4bcc-4ebf-bcb2-ee776dda4a93,Kushal sai,5,Just wow!,looking lavishworking good
+735,review-b95d69c2-77dc-41b1-838e-fa08ef82c6cd,Kaushik Parui,4,Very Good,good product
+736,review-d5b212b0-f436-4ad3-9dd7-644271028307,Flipkart Customer,4,Good choice,good product
+737,review-8e20211b-59de-4895-b39f-389341b62305,Maneesh Gopan,4,Pretty good,good
+738,review-bf7dbd9c-c3b3-4c6c-8bec-15f8a24c7ae9,SARBAJIT GHOSE,4,Very Good,pendrive overall workingbut total capacity product showing 288gb dont know replacing also got type
+739,review-a77e15e1-816c-4e34-9374-727b067ee18c,Jitesh Khandelwal,2,Could be way better,speed slow
+740,review-84b5478e-9971-445f-91da-b3bbe465a08b,Siva S,5,Brilliant,nice product
+741,review-ea7e3c9f-43be-474b-a64d-66f1e7b337a1,Asif Choudhari,5,Worth every penny,awesome quality
+742,review-313961a7-f5b5-4ebd-8bb6-61703152c482,Balaji S,1,Worthless,pendrive corrupted within one monthnow work
+743,review-61b31161-c5c0-4787-a220-3f2fdb683ed6,Naveen Kumar,5,Simply awesome,good product
+744,review-300ae2dd-d593-4626-8172-b2050c6c48ab,Flipkart Customer,5,Terrific purchase,good product aspected reasonable price perfect size good speed
+745,review-8fed5fc7-a542-423c-9e72-606e51203d1e,Flipkart Customer,3,Just okay,definitely 32 gigs super slowno matter devicemachine use whatever vopy transfer never gp beyond 45 mbpsit also heats pen drive heats evn use phonebut good nonetheless youre getting 32 gigabytes storageout 32 gbs 30 gbs free use
+746,review-3187935d-4425-4cb9-8079-203863d99432,Akshat Kumar,4,Very Good,actual capacity speed pendrive less described storage capacity data transfer speedbut pendrive v good
+747,review-11f5c582-b3fe-4938-acf3-c5f869bd13a2,Sanjay Shitole,5,Wonderful,vgood
+748,review-445fa99b-d32e-4bf0-94e5-fa14693dcd8b,Chhotu Singh,3,Nice,good
+749,review-2b80dc78-7079-47eb-9544-089d04ed20c0,Vikash Kumar,3,Does the job,capacity 305 gb transfer speed upyo 810 mbps overall good prurchase rs 329
+750,review-07492620-902c-4e07-8a0b-aeb1fd3083f2,Khirod Jena,3,Just okay,good
+751,review-57da64c6-e462-48ca-95dc-43fc11c48238,John Pree,4,Really Nice,good quality product
+752,review-6fd7fbed-b847-42dc-a4a6-9a3f69d743a2,Koaml Saini,5,Simply awesome,30 pendrive awesome speed 16mbs buy offer 32gb rs 329 cheep prise
+753,review-be1f6ceb-7d38-4b0d-9759-2297834839d6,VIJIN JIN,5,Terrific purchase,wow worth nice
+754,review-dd49187a-041b-4ad2-8e14-7c61fe09ae57,Alfiya Khan,2,Bad quality,288 gb memory space disappointed
+755,review-a9c25124-d96c-4393-a361-da79bd3a6537,Rajan Bhattacharjee,5,Terrific,best
+756,review-68fc8f18-abc3-4f7f-81a9-2e4da2e43f44,pranjal sinha,5,Terrific,really great
+757,review-3c0874c9-e83d-45ba-87a7-0696cf4aba7c,Sridhar R,5,Fabulous!,good
+758,review-7e856eb0-be5e-46e2-8130-123007e871a4,Flipkart Customer,5,Brilliant,awesome amazing quality
+759,review-38deec92-5d96-4932-90c1-76a15fb9213b,Avirup Nandi,3,Good,storage 28 gb 32gb
+760,review-9fb65dce-6d79-4b27-8ef6-2543d0a78112,Karthi Keyan,5,Just wow!,super
+761,review-8f5cedb7-d9b6-426d-8f04-a69c7028d7c2,Trinayan Sarma,4,Good quality product,happy
+762,review-2e4928bf-1dd3-4506-9cb2-c0655077da6c,Jayant Ray,4,Nice product,fast
+763,review-dcc7e574-a953-4db6-9eb5-bd4ef82419ff,Vishal Nimbalkar,3,Fair,good performance
+764,review-42772978-8a56-4f7e-9635-c5a909cc84b5,Aravind Reddy,5,Terrific,awesome
+765,review-c0e225eb-cf8c-4790-aec4-2f6936421a18,Abhijeet Bhatta,5,Worth every penny,wow
+766,review-42ca6227-a265-4457-9db4-07544a5a8630,Biplab Howlader,5,Best in the market!,original product time delivery 32gb usb 30 pendrive price really cheap must buy thank flipkart
+767,review-adad775f-0b6b-406b-86e6-c93c35fde340,Jishnu Kuttu,5,Mind-blowing purchase,superb product
+768,review-21598077-0e07-48e4-b0e7-6b9714bf758c,Tejas J.R,4,Really Nice,nice productbut 28 gb 32 except issue good
+769,review-5fc98cf9-1499-4bdc-95cc-fe7fbc38d2d5,sourav sarkar,5,Terrific purchase,good
+770,review-b703e39b-9bdb-4046-bd4e-8ee626f38085,Sathya Sathish,4,Wonderful,good working
+771,review-2b1daa0d-7474-4fc5-baf8-0c52918d6cad,Flipkart Customer,4,Really Nice,great
+772,review-8ec0b59e-ea61-4564-af28-94351c70337d,RAJESH KUMAR,5,Must buy!,best
+773,review-6a44d5d1-b6b7-485b-820e-e179b2cd0e8e,AMANDEEP KUMAR,5,Worth every penny,spotted realme2
+774,review-ca11fa04-350c-42f2-ab96-3e98dddf7070,Arun Kumar Rai,4,Very Good,found 288 gb storage 32good build quality best range personal usage
+775,review-b7c3558a-f5a8-40c8-bc06-93a589cf6e11,Pooja Kohli,4,Nice product,good
+776,review-7a6ce4ee-564f-4dbd-83a9-9e0940274a8e,Rupankar Chattopadhyay,4,Nice product,built quality good data transfer rates quiet fast con according metal body gets smudged easily otherwise great pendrive
+777,review-a0c993d6-d500-4842-b56c-1976baa358a2,Shivam Pandya,5,Wonderful,osm pendriveits colour perform r nice
+778,review-6c026fae-3b5f-40b8-955f-3aba9cb4176d,Flipkart Customer,5,Wonderful,packaging good useful
+779,review-13fbe7f2-43f0-4ed3-8fc4-fa4e43e53259,Ribin Cr,4,Nice product,super
+780,review-37e64946-d1ec-4dd0-8067-4a08d4d8d43f,Flipkart Customer,5,Terrific,good product
+781,review-829040fc-8371-4cee-9f2a-b355f0e8a2d8,G Venkatesan,4,Wonderful,good price compared usb 2 pendrives
+782,review-09496a83-e5f9-467a-945b-3ed2b1eb8ab7,Swarna Kumari Adari,5,Terrific,excellent data transfer also good recommend product cheapest price amazon go buy
+783,review-a2f2a043-bac5-49b0-9ee3-13f948810636,Dr Jainendra Kumar,5,Super!,good productprompt delivery
+784,review-367e9dd0-4814-46fb-bb7a-a53970c128b3,Vidya Dubbas,5,Mind-blowing purchase,top
+785,review-acb57876-db57-4863-a7b3-b63c72359c1e,Akshay Kalarikkal,4,Good choice,oknice
+786,review-5289c2d4-b544-444f-a791-28e9606d6943,Bheemshanker Dubbas,5,Excellent,good product amazing
+787,review-09ee93ca-b0a4-404e-a4c7-21a9db4c0d2f,Flipkart Customer,5,Terrific,value money
+788,review-74a523ec-277b-42e4-938a-ffce5da8bf78,Flipkart Customer,5,Simply awesome,nice
+789,review-262fc95b-54b5-44b4-b4d3-6a7571a959bd,Harish Pradhan,5,Brilliant,grt
+790,review-402267ee-9168-4c71-b3c9-f0c11280871f,rahul singh,1,Don't waste your money,outstanding behaviour
+791,review-3f3abf7e-850a-42db-97c2-a3047d755f2f,prashant gautam,5,Worth every penny,good
+792,review-8ac391e6-42d2-4a37-b195-72f63d6b26f7,Rohit Kumar,4,Pretty good,amazed fast deliveryat exact time im happy
+793,review-6309401a-ebf1-45d9-b4aa-d20bac51aa4d,Shubhanu Basu,5,All Rounder,best class price range also comes one year warranty 31 port gives great transfer speed lowest price offered seller go
+794,review-b82c3210-82a1-44be-b463-ce414f81fd75,Flipkart Customer,4,Really Nice,good
+795,review-c2f2355a-a311-4ca8-a557-9b94f8c40395,Flipkart Customer,5,Awesome,best
+796,review-a87e06b0-5aea-4341-a81b-e065b4c5fe0e,Amal Nadh,5,Brilliant,good product

@@ -1,0 +1,201 @@
+<html lang="en">
+
+<head>
+	<title>SAP by HSC</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="stylesheet" href="../static/css/main.css">
+
+	<style>
+		#header {
+			background-image: url("{{ url_for('static', filename='images/banner.jpg') }}");
+		}
+
+		.main-container {
+			height: fit-content;
+			width: 100%;
+			background-color: yellowgreen;
+			/* position: relative; */
+		}
+
+		.side-container {
+			float: left;
+			padding-top: 30px;
+			height: 100%;
+			width: 25%;
+			background-color: black;
+		}
+
+		.main-btn {
+			height: 40px;
+			width: 100%;
+			text-align: left;
+			background: none;
+			color: grey;
+			font-size: 18px;
+			outline: none;
+			cursor: pointer;
+			border: none;
+		}
+
+		.main-btn:hover {
+			font-weight: bold;
+			color: white;
+			border-left: 5px solid purple;
+		}
+
+		.dropdown-container {
+			display: none;
+			background-color: rgb(211, 211, 211);
+			padding-left: 8px;
+		}
+
+		.active-dropdown {
+			background-color: green;
+			font-weight: bold;
+			color: white;
+		}
+
+		.fa-caret-down {
+			float: right;
+			padding-right: 8px;
+		}
+
+		.graph-box {
+			margin-top: 10px;
+			margin-bottom: 10px;
+			margin-left: 10px;
+			margin-right: 10px;
+			height: fit-content;
+			/* background-color: grey; */
+			overflow: scroll;
+		}
+		.footer-section{
+			padding: 0 !important;
+		}		
+	</style>
+
+</head>
+
+<body>
+
+	<!-- Header -->
+	<header id="header" class="alt">
+		<div class="inner">
+			<h1>Data Visualization</h1>
+		</div>
+	</header>
+
+	<!-- Wrapper -->
+	<div id="wrapper">
+
+		<!-- Banner -->
+		<section id="intro" class="main">
+			<span class="icon fa-diamond major"></span>
+			
+			<div class="main-container">
+				<div class="side-container" style="float: left;">
+					<h2 style="color: white;">Graphs</h2>
+					<button class="main-btn amazon-drop" onclick="dcheck();">Amazon
+						<i class="fa fa-caret-down"style="display:none;" ></i>
+					</button>
+					<div class="dropdown-container" style="display: none;" >
+						<a href="/ag1" style="color: black;"> <i class="fa fa-bluetooth-b" aria-hidden="true" style="margin-right: 25px;"></i>Bluetooth Speakers</a> <br>
+						<a href="/ag2" style="color: black;"> <i class="fa fa-camera" aria-hidden="true" style="margin-right: 17px;"></i>Cameras</a> <br>
+						<a href="/ag3" style="color: black;"> <i class="fa fa-headphones" aria-hidden="true" style="margin-right: 20px;"></i>Earphones</a> <br>
+						<a href="/ag4" style="color: black;"> <i class="fa fa-hdd-o" aria-hidden="true" style="margin-right: 21px;"></i>Hard Disks</a> <br>
+						<a href="/ag5" style="color: black;"> <i class="fa fa-laptop" aria-hidden="true" style="margin-right: 17px;"></i>Laptops</a> <br>
+						<a href="/ag6" style="color: black;"> <i class="fa fa-mobile" aria-hidden="true" style="margin-right: 25px;"></i>Mobiles</a> <br>
+						<a href="/ag7" style="color: black;"> <i class="fa fa-usb" aria-hidden="true" style="margin-right: 15px;"></i>Pendrives</a> <br>
+						<a href="/ag8" style="color: black;"> <i class="fa fa-plug" aria-hidden="true" style="margin-right: 18px;"></i>Power Banks</a> <br>
+						<a href="/ag9" style="color: black;"> <i class="fa fa-clock-o" aria-hidden="true" style="margin-right: 21px;"></i>Smart Watches</a> <br>
+						<a href="/ag10" style="color: black;"> <i class="fa fa-tablet" aria-hidden="true" style="margin-right: 24px;"></i>Tablets</a>
+					</div>
+					<br>
+					<br>
+					<button class="main-btn flipkart-drop" onclick="dcheck();">Flipkart
+						<i class="fa fa-caret-down" style="display: none;"></i>
+					</button>
+					<div class="dropdown-container" style="left: 0;">
+						<a href="/fg1" style="color: black;"><i class="fa fa-bluetooth-b" aria-hidden="true" style="margin-right: 25px;"></i>Bluetooth Speakers</a> <br>
+						<a href="/fg2" style="color: black;"><i class="fa fa-camera" aria-hidden="true" style="margin-right: 17px;"></i>Cameras</a> <br>
+						<a href="/fg3" style="color: black;"><i class="fa fa-headphones" aria-hidden="true" style="margin-right: 20px;"></i>Earphones</a> <br>
+						<a href="/fg4" style="color: black;"><i class="fa fa-hdd-o" aria-hidden="true" style="margin-right: 21px;"></i>Hard Disks</a> <br>
+						<a href="/fg5" style="color: black;"><i class="fa fa-laptop" aria-hidden="true" style="margin-right: 17px;"></i>Laptops</a> <br>
+						<a href="/fg6" style="color: black;"><i class="fa fa-mobile" aria-hidden="true" style="margin-left: 5px; margin-right: 25px;"></i>Mobiles</a> <br>
+						<a href="/fg7" style="color: black;"><i class="fa fa-usb" aria-hidden="true" style="margin-right: 15px;"></i>Pendrives</a> <br>
+						<a href="/fg8" style="color: black;"><i class="fa fa-plug" aria-hidden="true" style="margin-right: 18px;"></i>Power Banks</a> <br>
+						<a href="/fg9" style="color: black;"><i class="fa fa-clock-o" aria-hidden="true" style="margin-right: 21px;"></i>Smart Watches</a> <br>
+						<a href="/fg10" style="color: black;"><i class="fa fa-tablet" aria-hidden="true" style="margin-right: 24px;"></i>Tablets</a>
+					</div>
+				</div>
+				<div class="graph-box">
+					{% block graph_block %}
+
+					{% endblock %}
+				</div>
+			</div>
+
+			<script>
+				var dropdown1 = document.getElementsByClassName("amazon-drop")
+				var dropdown2 = document.getElementsByClassName("flipkart-drop")
+				var i;
+		  
+				for (i = 0; i < dropdown1.length; i++) {
+				  dropdown1[i].addEventListener("click", function () {
+					this.classList.toggle("active-dropdown");
+					var dropdownContent = this.nextElementSibling;
+					if (dropdownContent.style.display === "block") {
+					  dropdownContent.style.display = "none";
+					} else {
+					  dropdownContent.style.display = "block";
+					}
+				  });
+				}
+				for (i = 0; i < dropdown2.length; i++) {
+				  dropdown2[i].addEventListener("click", function () {
+					this.classList.toggle("active-dropdown");
+					var dropdownContent = this.nextElementSibling;
+					if (dropdownContent.style.display === "block") {
+					  dropdownContent.style.display = "none";
+					} else {
+					  dropdownContent.style.display = "block";
+					}
+				  });
+				}
+			  </script>
+		</section>
+
+		<!-- Items -->
+
+		<!-- CTA -->
+		<section id="cta" class="main special">
+			<ul class="actions">
+				<li><a onclick="location.href='/'" id="start" class="button big">Home</a></li>
+				<li><a onclick="location.href='/dashboard'" id="start" class="button big">Dashboard</a></li>
+			</ul>
+		</section>
+
+		<!-- Main -->
+
+		<!-- Footer -->
+		<footer id="footer">
+			<ul class="icons">
+				<li><a href="https://github.com/Chauhan-Hemant" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+				<li><a href="https://www.linkedin.com/in/hemant-chauhan-1252a0144/" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+				<li><a href="https://twitter.com/hemant__chauhan" class="icon fa-github"><span class="label"> Github </span></a></li>
+			</ul>
+			<p class="copyright">Copyright &copy; 2020 All rights reserved | This Website is made with 🖤 by HSC.</p>
+		</footer>
+
+	</div>
+
+	<!-- Scripts -->
+	<script src="../static/javaScripts/jquery.min.js"></script>
+	<script src="../static/javaScripts/skel.min.js"></script>
+	<script src="../static/javaScripts/util.js"></script>
+	<script src="../static/javaScripts/main.js"></script>
+
+</body>
+
+</html>
